@@ -3,11 +3,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "price": {
-          "type": "price",
-          "settings": {
-          }
-        },
         "separator": {
           "type": "separator",
           "settings": {
@@ -24,6 +19,7 @@
         },
         "sales_point": {
           "type": "sales_point",
+          "disabled": true,
           "settings": {
             "icon": "globe",
             "text": "Free worldwide shipping"
@@ -31,15 +27,21 @@
         },
         "inventory_status": {
           "type": "inventory_status",
+          "disabled": true,
           "settings": {
             "inventory_threshold": 10,
             "inventory_transfers_enable": true
           }
         },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true,
+            "show_dynamic_checkout": false,
             "surface_pickup_enable": true,
             "show_gift_card_recipient": false
           }
@@ -72,11 +74,11 @@
         }
       },
       "block_order": [
-        "price",
         "separator",
         "variant_picker",
         "sales_point",
         "inventory_status",
+        "price",
         "buy_buttons",
         "description",
         "tab",
@@ -90,7 +92,7 @@
         "product_zoom_enable": true,
         "thumbnail_position": "below",
         "thumbnail_height": "flexible",
-        "thumbnail_arrows": false,
+        "thumbnail_arrows": true,
         "mobile_layout": "partial",
         "enable_video_looping": true,
         "product_video_style": "muted"
@@ -114,7 +116,7 @@
         "layout": "left",
         "height": 550,
         "framed": false,
-        "parallax": false,
+        "parallax": true,
         "parallax_direction": "top",
         "lazyload_images": true
       }
@@ -195,6 +197,7 @@
         "testimonials-1",
         "testimonials-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "Testimonials",
         "align_text": "center",

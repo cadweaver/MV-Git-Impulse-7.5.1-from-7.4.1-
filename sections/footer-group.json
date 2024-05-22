@@ -1,1 +1,111 @@
-{"type":"footer","name":"t:sections.footer-group.name","sections":{"footer-promotions":{"type":"footer-promotions","blocks":{"footer-promotions-0":{"type":"promotion","settings":{"enable_image":true}},"footer-promotions-1":{"type":"promotion","settings":{"enable_image":true}},"footer-promotions-2":{"type":"promotion","settings":{"enable_image":true}}},"block_order":["footer-promotions-0","footer-promotions-1","footer-promotions-2"],"settings":{}},"footer":{"type":"footer","blocks":{"footer-0":{"type":"logo_social","settings":{"container_width":95}},"footer-1":{"type":"menu","settings":{"menu":"footer","container_width":25}},"footer2":{"type":"newsletter","settings":{"container_width":33}}},"block_order":["footer-1","footer2","footer-0"],"settings":{"show_payment_icons":false}}},"order":["footer-promotions","footer"]}
+{
+  "type": "footer",
+  "name": "t:sections.footer-group.name",
+  "sections": {
+    "footer-promotions": {
+      "type": "footer-promotions",
+      "blocks": {
+        "footer-promotions-0": {
+          "type": "promotion",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "title": "Site-wide promotion",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "footer-promotions-1": {
+          "type": "promotion",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "title": "Site-wide promotion",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "footer-promotions-2": {
+          "type": "promotion",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "title": "Site-wide promotion",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "footer-promotions-0",
+        "footer-promotions-1",
+        "footer-promotions-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "hide_homepage": false
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "footer2": {
+          "type": "newsletter",
+          "settings": {
+            "show_footer_title": false,
+            "title": "",
+            "text": "<p>Sign up here for our newsletter.<\/p>",
+            "container_width": 33
+          }
+        },
+        "menu_ckeMdJ": {
+          "type": "menu",
+          "settings": {
+            "show_footer_title": false,
+            "menu": "phone",
+            "container_width": 33
+          }
+        },
+        "menu_xa47f3": {
+          "type": "menu",
+          "disabled": true,
+          "settings": {
+            "show_footer_title": false,
+            "menu": "footer",
+            "container_width": 25
+          }
+        },
+        "custom_F6C8Qx": {
+          "type": "custom",
+          "settings": {
+            "show_footer_title": false,
+            "title": "",
+            "text": "<p><a href=\"https:\/\/www.instagram.com\/modern.verve\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/modern.verve\/\">Instagram<\/a><\/p><p><\/p>",
+            "container_width": 33
+          }
+        }
+      },
+      "block_order": [
+        "footer2",
+        "menu_ckeMdJ",
+        "menu_xa47f3",
+        "custom_F6C8Qx"
+      ],
+      "settings": {
+        "show_locale_selector": true,
+        "show_currency_selector": true,
+        "show_currency_flags": true,
+        "show_payment_icons": false,
+        "show_copyright": false,
+        "copyright_text": ""
+      }
+    }
+  },
+  "order": [
+    "footer-promotions",
+    "footer"
+  ]
+}
