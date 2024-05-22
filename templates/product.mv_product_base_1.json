@@ -1,17 +1,20 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "main-product",
       "blocks": {
-        "price": {
-          "type": "price",
-          "settings": {
-          }
-        },
         "separator": {
           "type": "separator",
-          "settings": {
-          }
+          "settings": {}
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -24,6 +27,7 @@
         },
         "sales_point": {
           "type": "sales_point",
+          "disabled": true,
           "settings": {
             "icon": "globe",
             "text": "Free worldwide shipping"
@@ -31,15 +35,20 @@
         },
         "inventory_status": {
           "type": "inventory_status",
+          "disabled": true,
           "settings": {
             "inventory_threshold": 10,
             "inventory_transfers_enable": true
           }
         },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true,
+            "show_dynamic_checkout": false,
             "surface_pickup_enable": true,
             "show_gift_card_recipient": false
           }
@@ -54,7 +63,7 @@
           "type": "tab",
           "settings": {
             "title": "Shipping information",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
             "page": ""
           }
         },
@@ -67,16 +76,15 @@
         },
         "share": {
           "type": "share",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
-        "price",
         "separator",
         "variant_picker",
         "sales_point",
         "inventory_status",
+        "price",
         "buy_buttons",
         "description",
         "tab",
@@ -85,13 +93,13 @@
       ],
       "settings": {
         "sku_enable": false,
-        "image_position": "left",
-        "image_size": "medium",
+        "image_position": "right",
+        "image_size": "large",
         "product_zoom_enable": true,
         "thumbnail_position": "below",
         "thumbnail_height": "flexible",
-        "thumbnail_arrows": false,
-        "mobile_layout": "partial",
+        "thumbnail_arrows": true,
+        "mobile_layout": "full",
         "enable_video_looping": true,
         "product_video_style": "muted"
       }
@@ -108,13 +116,13 @@
       "settings": {
         "subtitle": "Impressive",
         "title": "About your brand",
-        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
+        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
         "button_label": "",
         "button_link": "",
         "layout": "left",
         "height": 550,
         "framed": false,
-        "parallax": false,
+        "parallax": true,
         "parallax_direction": "top",
         "lazyload_images": true
       }
@@ -126,7 +134,7 @@
         "image2_mask": "none",
         "subtitle": "",
         "title": "About your brand",
-        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -146,7 +154,7 @@
         "image2_mask": "none",
         "subtitle": "",
         "title": "About your brand",
-        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -166,7 +174,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "author_info": "Los Angeles, CA"
           }
@@ -175,7 +183,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "author_info": "Los Angeles, CA"
           }
@@ -184,7 +192,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "author_info": "Los Angeles, CA"
           }
@@ -195,6 +203,7 @@
         "testimonials-1",
         "testimonials-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "Testimonials",
         "align_text": "center",
@@ -219,8 +228,7 @@
     },
     "collection-return": {
       "type": "collection-return",
-      "settings": {
-      }
+      "settings": {}
     }
   },
   "order": [
