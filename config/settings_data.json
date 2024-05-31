@@ -60,6 +60,8 @@
     "cart_type": "drawer",
     "cart_notes_enable": false,
     "cart_terms_conditions_enable": false,
+    "social_instagram_link": "https:\/\/www.instagram.com\/modern.verve\/",
+    "share_facebook": true,
     "checkout_logo_position": "left",
     "checkout_logo_size": "small",
     "checkout_body_background_color": "#ffffff",
