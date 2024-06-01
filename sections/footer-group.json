@@ -69,8 +69,27 @@
             "container_width": 33
           }
         },
+        "custom_7rLQ3n": {
+          "type": "custom",
+          "settings": {
+            "show_footer_title": true,
+            "title": "",
+            "text": "",
+            "container_width": 33
+          }
+        },
+        "custom_F6C8Qx": {
+          "type": "custom",
+          "settings": {
+            "show_footer_title": true,
+            "title": "",
+            "text": "<p><a href=\"https:\/\/www.instagram.com\/modern.verve\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/modern.verve\/\">Instagram<\/a><\/p><p><\/p>",
+            "container_width": 33
+          }
+        },
         "footer-0": {
           "type": "logo_social",
+          "disabled": true,
           "settings": {
             "desktop_logo_height": 50,
             "container_width": 95
@@ -80,6 +99,8 @@
       "block_order": [
         "footer-1",
         "footer2",
+        "custom_7rLQ3n",
+        "custom_F6C8Qx",
         "footer-0"
       ],
       "settings": {
