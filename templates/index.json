@@ -32,6 +32,7 @@
             "link_text_2": "Shop all",
             "color_accent": "#000000",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Modern_Verve_Lighting_Balance_48_3_fixture_3_Vetri_Light_rec_hero_ebda0f88-fda0-4175-a672-17a21c0073c0.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
