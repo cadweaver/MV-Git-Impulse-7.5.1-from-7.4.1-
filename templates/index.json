@@ -42,15 +42,17 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Two line\ntitle slide.",
+            "title": "",
             "title_size": 80,
-            "subheading": "And optional subtext",
-            "link": "shopify:\/\/collections\/all",
-            "link_text": "Shop all",
+            "subheading": "",
+            "link": "shopify:\/\/products\/spark-series-2-20-chandelier",
+            "link_text": "",
             "link_2": "shopify:\/\/collections\/all",
-            "link_text_2": "Shop all",
+            "link_text_2": "",
             "color_accent": "#000000",
             "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/Modern_Verve_Lighting_Vetri_Gallery_Showing_3_0bf57e97-4f80-4968-a8a1-924424483ec1.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Modern_Verve_Lighting_Aria_multisq_3.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
