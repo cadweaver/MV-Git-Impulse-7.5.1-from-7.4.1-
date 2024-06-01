@@ -69,8 +69,17 @@
             "container_width": 33
           }
         },
+        "menu_xa47f3": {
+          "type": "menu",
+          "settings": {
+            "show_footer_title": false,
+            "menu": "footer",
+            "container_width": 25
+          }
+        },
         "custom_7rLQ3n": {
           "type": "custom",
+          "disabled": true,
           "settings": {
             "show_footer_title": true,
             "title": "",
@@ -99,6 +108,7 @@
       "block_order": [
         "footer-1",
         "footer2",
+        "menu_xa47f3",
         "custom_7rLQ3n",
         "custom_F6C8Qx",
         "footer-0"
