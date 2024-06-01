@@ -62,9 +62,9 @@
         "section_height": "750px",
         "mobile_height": "auto",
         "parallax": true,
-        "style": "bars",
+        "style": "minimal",
         "autoplay": true,
-        "autoplay_speed": 7,
+        "autoplay_speed": 5,
         "lazyload_images": true
       }
     },
