@@ -23,16 +23,17 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Two line\ntitle slide.",
+            "title": "",
             "title_size": 80,
-            "subheading": "And optional subtext",
+            "subheading": "",
             "link": "shopify:\/\/collections\/all",
-            "link_text": "Shop this",
-            "link_2": "shopify:\/\/collections\/all",
-            "link_text_2": "Shop all",
+            "link_text": "",
+            "link_2": "shopify:\/\/products\/balance-series-48-3-fixture",
+            "link_text_2": "",
             "color_accent": "#000000",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/Modern_Verve_Lighting_Balance_48_3_fixture_3_Vetri_Light_rec_hero_ebda0f88-fda0-4175-a672-17a21c0073c0.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Modern_Verve_Lighting_Balance_48_3_fixture_3_Vetri_Light_2023_Show.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
