@@ -130,7 +130,7 @@
         "featured-collections-3": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "spark-series",
             "title": "",
             "focal_point": "center center"
           }
