@@ -5,9 +5,37 @@
       "disabled": true,
       "settings": {
       }
+    },
+    "rich_text_bkByRx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_bePhze": {
+          "type": "heading",
+          "settings": {
+            "title": "the modern verve studio"
+          }
+        },
+        "text_cYQeh3": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bePhze",
+        "text_cYQeh3"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "rich_text_bkByRx"
   ]
 }
