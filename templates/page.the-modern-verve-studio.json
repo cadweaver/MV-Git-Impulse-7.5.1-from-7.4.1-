@@ -59,14 +59,14 @@
         "advanced_Dp3Gr4": {
           "type": "advanced",
           "settings": {
-            "subheading": "Manipulate - Flute Series",
-            "heading": "Announce your promotion",
-            "textarea": "Include the smaller details of your promotion in text below the title.",
-            "cta_text1": "Shop This",
+            "subheading": "",
+            "heading": "Manipulate - Flute Series",
+            "textarea": "",
+            "cta_text1": "",
             "cta_link1": "",
-            "cta_text2": "Shop All",
+            "cta_text2": "",
             "cta_link2": "",
-            "video_url": "",
+            "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/887a9a0b368745b4ac39ac6764bed8fa.mp4",
             "width": "50",
             "height": 500,
             "text_size": 100,
@@ -151,11 +151,42 @@
         "space_below": true,
         "lazyload_images": true
       }
+    },
+    "advanced_content_6YNeDj": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_ziR39j": {
+          "type": "image",
+          "settings": {
+            "link": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/91d6d7e5953f44bdb687f7c3827e512b.mp4",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_pygamm": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_ziR39j",
+        "liquid_pygamm"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
     "main",
     "rich_text_bkByRx",
-    "promo_grid_fYt3Hh"
+    "promo_grid_fYt3Hh",
+    "advanced_content_6YNeDj"
   ]
 }
