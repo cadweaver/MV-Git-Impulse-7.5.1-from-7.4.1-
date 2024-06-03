@@ -156,6 +156,34 @@
         "lazyload_images": true
       }
     },
+    "rich_text_pzhBXe": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8WR3rG": {
+          "type": "heading",
+          "settings": {
+            "title": "Shop our Collections"
+          }
+        },
+        "text_brDiRB": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_8WR3rG",
+        "text_brDiRB"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "featured-collections": {
       "type": "featured-collections",
       "blocks": {
@@ -199,9 +227,9 @@
         "featured-collections-3"
       ],
       "settings": {
-        "title": "Shop by category",
+        "title": "",
         "divider": false,
-        "per_row": 4,
+        "per_row": 2,
         "enable_gutter": true
       }
     },
@@ -330,6 +358,7 @@
     "slideshow",
     "rich-text",
     "promo-grid",
+    "rich_text_pzhBXe",
     "featured-collections",
     "promo-grid2",
     "featured-collection",
