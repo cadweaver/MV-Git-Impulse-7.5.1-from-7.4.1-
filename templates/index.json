@@ -100,6 +100,83 @@
         "divider": false
       }
     },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "featured-collections-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "flute-series",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "featured-collections-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "featured-collections-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "featured-collections-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "featured-collections-0",
+        "featured-collections-1",
+        "featured-collections-2",
+        "featured-collections-3"
+      ],
+      "settings": {
+        "title": "",
+        "divider": false,
+        "per_row": 2,
+        "enable_gutter": true
+      }
+    },
+    "rich_text_pzhBXe": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8WR3rG": {
+          "type": "heading",
+          "settings": {
+            "title": "Shop our Collections"
+          }
+        },
+        "text_brDiRB": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_8WR3rG",
+        "text_brDiRB"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "promo-grid": {
       "type": "promo-grid",
       "blocks": {
@@ -156,83 +233,6 @@
         "lazyload_images": true
       }
     },
-    "rich_text_pzhBXe": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_8WR3rG": {
-          "type": "heading",
-          "settings": {
-            "title": "Shop our Collections"
-          }
-        },
-        "text_brDiRB": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_8WR3rG",
-        "text_brDiRB"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
-    },
-    "featured-collections": {
-      "type": "featured-collections",
-      "blocks": {
-        "featured-collections-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": "",
-            "focal_point": "center center"
-          }
-        },
-        "featured-collections-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": "",
-            "focal_point": "center center"
-          }
-        },
-        "featured-collections-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": "",
-            "focal_point": "center center"
-          }
-        },
-        "featured-collections-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": "",
-            "focal_point": "center center"
-          }
-        }
-      },
-      "block_order": [
-        "featured-collections-0",
-        "featured-collections-1",
-        "featured-collections-2",
-        "featured-collections-3"
-      ],
-      "settings": {
-        "title": "",
-        "divider": false,
-        "per_row": 2,
-        "enable_gutter": true
-      }
-    },
     "background-image-text": {
       "type": "background-image-text",
       "settings": {
@@ -254,9 +254,9 @@
     "hero_video_MXx47Q",
     "slideshow",
     "rich-text",
-    "promo-grid",
-    "rich_text_pzhBXe",
     "featured-collections",
+    "rich_text_pzhBXe",
+    "promo-grid",
     "background-image-text"
   ]
 }
