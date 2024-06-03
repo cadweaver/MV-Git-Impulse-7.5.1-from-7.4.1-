@@ -44,6 +44,7 @@
         "footer-promotions-1",
         "footer-promotions-2"
       ],
+      "disabled": true,
       "settings": {
         "hide_homepage": false
       }
@@ -65,7 +66,7 @@
           "settings": {
             "show_footer_title": true,
             "title": "",
-            "text": "<p>We would love to keep you up to date on our newest inspirations. <\/p>",
+            "text": "<p>Sign up here for our newsletter<\/p>",
             "container_width": 33
           }
         },
@@ -79,7 +80,6 @@
         },
         "custom_7rLQ3n": {
           "type": "custom",
-          "disabled": true,
           "settings": {
             "show_footer_title": true,
             "title": "",
@@ -98,7 +98,6 @@
         },
         "footer-0": {
           "type": "logo_social",
-          "disabled": true,
           "settings": {
             "desktop_logo_height": 50,
             "container_width": 95
