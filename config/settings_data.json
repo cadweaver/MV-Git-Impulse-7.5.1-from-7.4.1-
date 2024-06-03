@@ -64,7 +64,7 @@
     "social_instagram_link": "",
     "share_facebook": true,
     "favicon": "shopify:\/\/shop_images\/MV_modern_verve__sq_6-01.png",
-    "show_breadcrumbs": true,
+    "show_breadcrumbs": false,
     "checkout_logo_position": "left",
     "checkout_logo_size": "medium",
     "checkout_body_background_color": "#ffffff",
