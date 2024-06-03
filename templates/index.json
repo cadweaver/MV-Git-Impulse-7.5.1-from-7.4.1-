@@ -183,21 +183,21 @@
         "promo-0": {
           "type": "advanced",
           "settings": {
-            "subheading": "Limited time",
-            "heading": "Announce your promotion",
-            "textarea": "Include the smaller details of your promotion in text below the title.",
-            "cta_text1": "Shop This",
-            "cta_link1": "shopify:\/\/collections\/all",
-            "cta_text2": "Shop All",
+            "subheading": "",
+            "heading": "Spark Series",
+            "textarea": "",
+            "cta_text1": "",
+            "cta_link1": "shopify:\/\/collections\/spark-series",
+            "cta_text2": "",
             "cta_link2": "",
             "video_url": "",
             "width": "50",
             "height": 800,
             "text_size": 100,
-            "text_align": "vertical-center horizontal-center",
+            "text_align": "vertical-bottom horizontal-left",
             "color_accent": "rgba(0,0,0,0)",
             "boxed": false,
-            "framed": true
+            "framed": false
           }
         },
         "promo-1": {
