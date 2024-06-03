@@ -61,20 +61,20 @@
             "container_width": 33
           }
         },
+        "menu_ckeMdJ": {
+          "type": "menu",
+          "settings": {
+            "show_footer_title": false,
+            "menu": "phone",
+            "container_width": 33
+          }
+        },
         "menu_xa47f3": {
           "type": "menu",
           "disabled": true,
           "settings": {
             "show_footer_title": false,
             "menu": "footer",
-            "container_width": 25
-          }
-        },
-        "menu_ckeMdJ": {
-          "type": "menu",
-          "settings": {
-            "show_footer_title": false,
-            "menu": "phone",
             "container_width": 25
           }
         },
@@ -90,8 +90,8 @@
       },
       "block_order": [
         "footer2",
-        "menu_xa47f3",
         "menu_ckeMdJ",
+        "menu_xa47f3",
         "custom_F6C8Qx"
       ],
       "settings": {
