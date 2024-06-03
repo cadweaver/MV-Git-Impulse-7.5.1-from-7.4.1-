@@ -233,83 +233,6 @@
         "enable_gutter": true
       }
     },
-    "promo-grid2": {
-      "type": "promo-grid",
-      "blocks": {
-        "promo2-0": {
-          "type": "advanced",
-          "settings": {
-            "subheading": "Limited time",
-            "heading": "Announce your promotion",
-            "textarea": "Include the smaller details of your promotion in text below the title.",
-            "cta_text1": "Shop This",
-            "cta_link1": "shopify:\/\/collections\/all",
-            "cta_text2": "Shop All",
-            "cta_link2": "",
-            "video_url": "",
-            "width": "100",
-            "height": 720,
-            "text_size": 120,
-            "text_align": "vertical-center horizontal-center",
-            "color_accent": "rgba(0,0,0,0)",
-            "boxed": false,
-            "framed": false
-          }
-        },
-        "promo2-1": {
-          "type": "sale_collection",
-          "settings": {
-            "sale_collection": "",
-            "top_text": "Up to",
-            "middle_text": "50% off",
-            "bottom_text": "Select products",
-            "width": "50",
-            "color_tint": "#000000",
-            "color_tint_opacity": 0,
-            "boxed": false,
-            "framed": true
-          }
-        },
-        "promo2-2": {
-          "type": "sale_collection",
-          "settings": {
-            "sale_collection": "",
-            "top_text": "Up to",
-            "middle_text": "50% off",
-            "bottom_text": "Select products",
-            "width": "50",
-            "color_tint": "#000000",
-            "color_tint_opacity": 0,
-            "boxed": false,
-            "framed": true
-          }
-        }
-      },
-      "block_order": [
-        "promo2-0",
-        "promo2-1",
-        "promo2-2"
-      ],
-      "settings": {
-        "full_width": false,
-        "gutter_size": 20,
-        "space_above": false,
-        "space_below": false,
-        "lazyload_images": true
-      }
-    },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured collection",
-        "home_featured_products": "",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
-    },
     "background-image-text": {
       "type": "background-image-text",
       "settings": {
@@ -325,32 +248,6 @@
         "parallax_direction": "top",
         "lazyload_images": true
       }
-    },
-    "blog-posts": {
-      "type": "blog-posts",
-      "settings": {
-        "title": "From the journal",
-        "blog": "news",
-        "post_limit": 3,
-        "blog_show_tags": false,
-        "blog_show_date": true,
-        "blog_show_comments": false,
-        "blog_show_author": false,
-        "view_all": true,
-        "blog_image_size": "wide",
-        "divider": false
-      }
-    },
-    "map": {
-      "type": "map",
-      "settings": {
-        "map_title": "Our retail store",
-        "address": "<p>301 Front St W<br>Toronto, Canada<\/p><p>Mon - Fri, 8:30am - 10:30pm<br>Saturday, 8:30am - 10:30pm<br>Sunday, 8:30am - 10:30pm<\/p>",
-        "map_address": "301 Front St W, Toronto, ON M5V 2T6",
-        "api_key": "",
-        "show_button": true,
-        "lazyload_images": true
-      }
     }
   },
   "order": [
@@ -360,10 +257,6 @@
     "promo-grid",
     "rich_text_pzhBXe",
     "featured-collections",
-    "promo-grid2",
-    "featured-collection",
-    "background-image-text",
-    "blog-posts",
-    "map"
+    "background-image-text"
   ]
 }
