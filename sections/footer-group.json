@@ -70,13 +70,12 @@
             "container_width": 25
           }
         },
-        "custom_7rLQ3n": {
-          "type": "custom",
+        "menu_ckeMdJ": {
+          "type": "menu",
           "settings": {
-            "show_footer_title": true,
-            "title": "",
-            "text": "",
-            "container_width": 33
+            "show_footer_title": false,
+            "menu": "phone",
+            "container_width": 25
           }
         },
         "custom_F6C8Qx": {
@@ -92,7 +91,7 @@
       "block_order": [
         "footer2",
         "menu_xa47f3",
-        "custom_7rLQ3n",
+        "menu_ckeMdJ",
         "custom_F6C8Qx"
       ],
       "settings": {
