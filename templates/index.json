@@ -78,11 +78,12 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "title": "Rich text"
+            "title": "Shop our Collections"
           }
         },
         "text": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "enlarge_text": true,
             "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
@@ -93,7 +94,6 @@
         "heading",
         "text"
       ],
-      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
