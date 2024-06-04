@@ -134,13 +134,23 @@
             "title": "",
             "focal_point": "80% 0"
           }
+        },
+        "collection_UaQjNG": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
         }
       },
       "block_order": [
         "featured-collections-0",
         "featured-collections-1",
         "featured-collections-2",
-        "featured-collections-3"
+        "featured-collections-3",
+        "collection_UaQjNG"
       ],
       "settings": {
         "title": "",
