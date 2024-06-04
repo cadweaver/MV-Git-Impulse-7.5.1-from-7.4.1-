@@ -152,18 +152,10 @@
           "settings": {
             "title": "current fixtures & projects"
           }
-        },
-        "text_qJf8TA": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": ""
-          }
         }
       },
       "block_order": [
-        "heading_jQQQCw",
-        "text_qJf8TA"
+        "heading_jQQQCw"
       ],
       "settings": {
         "align_text": "center",
@@ -178,7 +170,7 @@
           "type": "image",
           "settings": {
             "link": "",
-            "width": "50%",
+            "width": "33%",
             "alignment": "center"
           }
         },
@@ -186,7 +178,7 @@
           "type": "liquid",
           "settings": {
             "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
-            "width": "100%",
+            "width": "33%",
             "alignment": "center"
           }
         },
@@ -194,7 +186,7 @@
           "type": "image",
           "settings": {
             "link": "",
-            "width": "100%",
+            "width": "33%",
             "alignment": "center"
           }
         }
