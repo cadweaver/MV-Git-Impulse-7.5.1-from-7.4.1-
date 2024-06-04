@@ -152,34 +152,20 @@
         "lazyload_images": true
       }
     },
-    "advanced_content_6YNeDj": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_ziR39j": {
-          "type": "image",
-          "settings": {
-            "link": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/887a9a0b368745b4ac39ac6764bed8fa.mp4",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "liquid_pygamm": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_ziR39j",
-        "liquid_pygamm"
-      ],
+    "hero_video_pzaDdY": {
+      "type": "hero-video",
       "settings": {
-        "full_width": false,
-        "space_around": true,
-        "lazyload_images": true
+        "title": "Bring your\nbrand to life.",
+        "title_size": 80,
+        "subheading": "Seamless hero videos",
+        "link_text": "Optional button",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/887a9a0b368745b4ac39ac6764bed8fa.mp4",
+        "overlay_opacity": 0,
+        "section_height": "100vh",
+        "mobile_height": "auto"
       }
     }
   },
@@ -187,6 +173,6 @@
     "main",
     "rich_text_bkByRx",
     "promo_grid_fYt3Hh",
-    "advanced_content_6YNeDj"
+    "hero_video_pzaDdY"
   ]
 }
