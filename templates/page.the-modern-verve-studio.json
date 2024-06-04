@@ -257,14 +257,6 @@
             "alignment": "center"
           }
         },
-        "liquid_MBzDpG": {
-          "type": "liquid",
-          "settings": {
-            "code": "<p style=\"text-align: center;\"><video loop=\"loop\" muted=\"\" autoplay=\"autoplay\" preload=\"\" id=\"vid\" style=\"max-width: 100%; outline: none; height: 360;\" outline=\"none\">\n<source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/898b5ea821d44f31842a9b95479dfc02.mp4\n\">\nYour browser does not support our video.\n<\/video><\/p>",
-            "width": "33%",
-            "alignment": "center"
-          }
-        },
         "image_cbbprt": {
           "type": "image",
           "settings": {
@@ -273,12 +265,59 @@
             "width": "33%",
             "alignment": "center"
           }
+        },
+        "liquid_MBzDpG": {
+          "type": "liquid",
+          "settings": {
+            "code": "<p style=\"text-align: center;\"><video loop=\"loop\" muted=\"\" autoplay=\"autoplay\" preload=\"\" id=\"vid\" style=\"max-width: 100%; outline: none; height: 360;\" outline=\"none\">\n<source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/898b5ea821d44f31842a9b95479dfc02.mp4\n\">\nYour browser does not support our video.\n<\/video><\/p>",
+            "width": "33%",
+            "alignment": "center"
+          }
         }
       },
       "block_order": [
         "image_RhF3zT",
-        "liquid_MBzDpG",
-        "image_cbbprt"
+        "image_cbbprt",
+        "liquid_MBzDpG"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_friqNi": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_VMFrL9": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_dGawCV": {
+          "type": "liquid",
+          "settings": {
+            "code": "<p style=\"text-align: center;\"><video loop=\"loop\" muted=\"\" autoplay=\"autoplay\" preload=\"\" id=\"vid\" style=\"max-width: 100%; outline: none; height: 360;\" outline=\"none\">\n<source src=\" https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/ad5a88dc8fc341f0bc2a1b3850a9aac3.mp4\">\nYour browser does not support our video.\n<\/video><\/p>",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "image_pfFAUU": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "33%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_VMFrL9",
+        "liquid_dGawCV",
+        "image_pfFAUU"
       ],
       "settings": {
         "full_width": false,
@@ -296,6 +335,7 @@
     "rich_text_nGiCgi",
     "advanced_content_9qYBdk",
     "advanced_content_TPfQGA",
-    "advanced_content_biNYeD"
+    "advanced_content_biNYeD",
+    "advanced_content_friqNi"
   ]
 }
