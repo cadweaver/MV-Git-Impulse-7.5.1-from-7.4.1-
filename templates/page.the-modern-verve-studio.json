@@ -186,6 +186,7 @@
         "image_FLXATm": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/modern_verve_Wall_Boom_Aria_4M_YT_112_sq.jpg",
             "link": "",
             "width": "33%",
             "alignment": "center"
@@ -209,6 +210,7 @@
         "image_XeAKPg": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/2_modern_verve_JMag_light_BB11.jpg",
             "link": "",
             "width": "33%",
             "alignment": "center"
@@ -225,7 +227,7 @@
         "liquid_P98zrV": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "code": "<p style=\"text-align: center;\"><video loop=\"loop\" muted=\"\" autoplay=\"autoplay\" preload=\"\" id=\"vid\" style=\"max-width: 100%; outline: none; height: 360;\" outline=\"none\">\n<source src=\" https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/48e910e97d50420c8fbda19f50494362.mp4\n\">\nYour browser does not support our video.\n<\/video><\/p>",
             "width": "33%",
             "alignment": "center"
           }
