@@ -169,6 +169,7 @@
         "image_e4HgNA": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/modern_verve_Flute_Series_2_20_Chandelier_YY_1327.jpg",
             "link": "",
             "width": "33%",
             "alignment": "center"
@@ -177,7 +178,7 @@
         "liquid_F7mJ3y": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "code": "<p style=\"text-align: center;\"><video loop=\"loop\" muted=\"\" autoplay=\"autoplay\" preload=\"\" id=\"vid\" style=\"max-width: 100%; outline: none; height: 360;\" outline=\"none\">\n<source src=\" https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c0babd9bbe4c4125ae7227d8ccfc0a50.mp4\n\">\nYour browser does not support our video.\n<\/video><\/p>",
             "width": "33%",
             "alignment": "center"
           }
@@ -201,6 +202,45 @@
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "advanced_content_TPfQGA": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_XeAKPg": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "image_BrEU4L": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_P98zrV": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "33%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_XeAKPg",
+        "image_BrEU4L",
+        "liquid_P98zrV"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -210,6 +250,7 @@
     "rich_text_VzVCHW",
     "advanced_content_8PTbLM",
     "rich_text_nGiCgi",
-    "advanced_content_9qYBdk"
+    "advanced_content_9qYBdk",
+    "advanced_content_TPfQGA"
   ]
 }
