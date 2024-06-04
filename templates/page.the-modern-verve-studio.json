@@ -143,6 +143,72 @@
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "rich_text_nGiCgi": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jQQQCw": {
+          "type": "heading",
+          "settings": {
+            "title": "current fixtures & projects"
+          }
+        },
+        "text_qJf8TA": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_jQQQCw",
+        "text_qJf8TA"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "advanced_content_9qYBdk": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_e4HgNA": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_F7mJ3y": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        },
+        "image_FLXATm": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_e4HgNA",
+        "liquid_F7mJ3y",
+        "image_FLXATm"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -150,6 +216,8 @@
     "rich_text_bkByRx",
     "advanced_content_bH67kx",
     "rich_text_VzVCHW",
-    "advanced_content_8PTbLM"
+    "advanced_content_8PTbLM",
+    "rich_text_nGiCgi",
+    "advanced_content_9qYBdk"
   ]
 }
