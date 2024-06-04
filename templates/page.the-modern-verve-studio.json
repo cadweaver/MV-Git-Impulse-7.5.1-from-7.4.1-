@@ -150,7 +150,7 @@
         "gutter_size": 12,
         "space_above": false,
         "space_below": true,
-        "lazyload_images": true
+        "lazyload_images": false
       }
     },
     "hero_video_pzaDdY": {
