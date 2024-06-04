@@ -248,17 +248,10 @@
     "advanced_content_biNYeD": {
       "type": "advanced-content",
       "blocks": {
-        "image_cbbprt": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "width": "33%",
-            "alignment": "center"
-          }
-        },
         "image_RhF3zT": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/2_modern_verve_JMag_light_BB11.jpg",
             "link": "",
             "width": "33%",
             "alignment": "center"
@@ -271,12 +264,21 @@
             "width": "33%",
             "alignment": "center"
           }
+        },
+        "image_cbbprt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Modern_Verve_Flute_Series_Endless_Horizontal_Wand_LED_Fixture_H-1_inst.jpg",
+            "link": "",
+            "width": "33%",
+            "alignment": "center"
+          }
         }
       },
       "block_order": [
-        "image_cbbprt",
         "image_RhF3zT",
-        "liquid_MBzDpG"
+        "liquid_MBzDpG",
+        "image_cbbprt"
       ],
       "settings": {
         "full_width": false,
