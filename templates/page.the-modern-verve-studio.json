@@ -300,6 +300,7 @@
         "image_cdGn6V": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Modern_Verve_Flute_3-30_2id1350.jpg",
             "link": "",
             "width": "33%",
             "alignment": "center"
@@ -308,6 +309,7 @@
         "image_pXwcfh": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Modern_Verve_Balance_Series_48-3_LED_fixture_grey_pc.jpg",
             "link": "",
             "width": "33%",
             "alignment": "center"
