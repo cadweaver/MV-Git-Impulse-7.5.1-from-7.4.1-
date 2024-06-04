@@ -292,7 +292,7 @@
         "liquid_mCTebk": {
           "type": "liquid",
           "settings": {
-            "code": "<p style=\"text-align: center;\"><video loop=\"loop\" muted=\"\" autoplay=\"autoplay\" preload=\"\" id=\"vid\" style=\"max-width: 100%; outline: none; height: 360;\" outline=\"none\">\n<source src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/6289\/3139\/files\/2_modern_verve_JMag_light_BB11.jpg?v=1717519019\">\nYour browser does not support our video.\n<\/video><\/p>",
+            "code": "<p style=\"text-align: center;\"><video loop=\"loop\" muted=\"\" autoplay=\"autoplay\" preload=\"\" id=\"vid\" style=\"max-width: 100%; outline: none; height: 360;\" outline=\"none\">\n<source src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/6289\/3139\/files\/2_modern_verve_JMag_light_BB11.jpg?v=1717519019\"> \nYour browser does not support our video.\n<\/video><\/p>",
             "width": "33%",
             "alignment": "center"
           }
