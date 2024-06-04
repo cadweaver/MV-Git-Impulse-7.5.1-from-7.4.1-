@@ -69,7 +69,7 @@
             "image": "shopify:\/\/shop_images\/Shea_Bajaj_Spaceship_Light_1080.jpg",
             "video_url": "",
             "width": "33",
-            "height": 180,
+            "height": 100,
             "text_size": 120,
             "text_align": "vertical-bottom horizontal-left",
             "color_accent": "rgba(0,0,0,0)",
