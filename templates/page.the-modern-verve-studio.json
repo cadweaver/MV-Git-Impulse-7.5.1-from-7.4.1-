@@ -39,8 +39,8 @@
         "liquid_Rk6Ugx": {
           "type": "liquid",
           "settings": {
-            "code": "<video controls=\"controls\" style=\"max-width: 50%; height: 360;\">\n  <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/91d6d7e5953f44bdb687f7c3827e512b.mp4\" type=\"video\/mp4\" \/>\nYour browser does not support our video.\n<\/video>",
-            "width": "50%",
+            "code": "<video controls=\"controls\" style=\"max-width: 100%; height: 360;\">\n  <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/91d6d7e5953f44bdb687f7c3827e512b.mp4\" type=\"video\/mp4\" \/>\nYour browser does not support our video.\n<\/video>",
+            "width": "33%",
             "alignment": "center"
           }
         },
@@ -49,14 +49,23 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Shea_Bajaj_Spaceship_Light_1080.jpg",
             "link": "",
-            "width": "50%",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "image_LxYMhJ": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "100%",
             "alignment": "center"
           }
         }
       },
       "block_order": [
         "liquid_Rk6Ugx",
-        "image_hjUTYb"
+        "image_hjUTYb",
+        "image_LxYMhJ"
       ],
       "settings": {
         "full_width": false,
