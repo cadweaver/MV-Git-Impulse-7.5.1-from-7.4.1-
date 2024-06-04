@@ -215,6 +215,15 @@
             "alignment": "center"
           }
         },
+        "image_BrEU4L": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Modern_Verve_Aria_Branching_MCBY_1350.jpg",
+            "link": "",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
         "image_XeAKPg": {
           "type": "image",
           "settings": {
@@ -223,21 +232,12 @@
             "width": "33%",
             "alignment": "center"
           }
-        },
-        "image_BrEU4L": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Modern_Verve_Flute_Series_Endless_Horizontal_Wand_LED_Fixture_H-1_inst.jpg",
-            "link": "",
-            "width": "33%",
-            "alignment": "center"
-          }
         }
       },
       "block_order": [
         "liquid_P98zrV",
-        "image_XeAKPg",
-        "image_BrEU4L"
+        "image_BrEU4L",
+        "image_XeAKPg"
       ],
       "settings": {
         "full_width": false,
