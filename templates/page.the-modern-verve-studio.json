@@ -326,6 +326,34 @@
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "rich_text_GFwtgD": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6KhMiF": {
+          "type": "heading",
+          "settings": {
+            "title": "thank you for your time"
+          }
+        },
+        "text_kgXDhW": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_6KhMiF",
+        "text_kgXDhW"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -338,6 +366,7 @@
     "advanced_content_9qYBdk",
     "advanced_content_TPfQGA",
     "advanced_content_biNYeD",
-    "advanced_content_friqNi"
+    "advanced_content_friqNi",
+    "rich_text_GFwtgD"
   ]
 }
