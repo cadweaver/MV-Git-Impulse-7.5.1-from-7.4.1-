@@ -37,24 +37,35 @@
     "advanced_content_bH67kx": {
       "type": "advanced-content",
       "blocks": {
+        "image_EGnD8Q": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Modern_Verve_Seattle_Studio_sq.jpg",
+            "link": "",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
         "image_hBiWPd": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Modern_Verve_Studio_4.jpg",
             "link": "",
-            "width": "50%",
+            "width": "33%",
             "alignment": "center"
           }
         },
         "liquid_p76RVm": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
-            "width": "50%",
+            "code": "<p style=\"text-align: center;\"><video loop=\"loop\" muted=\"\" autoplay=\"autoplay\" preload=\"\" id=\"vid\" style=\"max-width: 100%; outline: none; height: 360;\" outline=\"none\">\n<source src=\" https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/196d8db3ae5e4017bdf5dc0c50f25748.mp4\">\nYour browser does not support our video.\n<\/video><\/p>",
+            "width": "33%",
             "alignment": "center"
           }
         }
       },
       "block_order": [
+        "image_EGnD8Q",
         "image_hBiWPd",
         "liquid_p76RVm"
       ],
