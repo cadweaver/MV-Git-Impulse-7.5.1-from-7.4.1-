@@ -207,10 +207,18 @@
     "advanced_content_TPfQGA": {
       "type": "advanced-content",
       "blocks": {
+        "liquid_P98zrV": {
+          "type": "liquid",
+          "settings": {
+            "code": "<p style=\"text-align: center;\"><video loop=\"loop\" muted=\"\" autoplay=\"autoplay\" preload=\"\" id=\"vid\" style=\"max-width: 100%; outline: none; height: 360;\" outline=\"none\">\n<source src=\" https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/48e910e97d50420c8fbda19f50494362.mp4\n\">\nYour browser does not support our video.\n<\/video><\/p>",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
         "image_XeAKPg": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2_modern_verve_JMag_light_BB11.jpg",
+            "image": "shopify:\/\/shop_images\/Modern_Verve_Aria_Branching__mc2.jpg",
             "link": "",
             "width": "33%",
             "alignment": "center"
@@ -219,24 +227,17 @@
         "image_BrEU4L": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Modern_Verve_Flute_Series_Endless_Horizontal_Wand_LED_Fixture_H-1_inst.jpg",
             "link": "",
-            "width": "33%",
-            "alignment": "center"
-          }
-        },
-        "liquid_P98zrV": {
-          "type": "liquid",
-          "settings": {
-            "code": "<p style=\"text-align: center;\"><video loop=\"loop\" muted=\"\" autoplay=\"autoplay\" preload=\"\" id=\"vid\" style=\"max-width: 100%; outline: none; height: 360;\" outline=\"none\">\n<source src=\" https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/48e910e97d50420c8fbda19f50494362.mp4\n\">\nYour browser does not support our video.\n<\/video><\/p>",
             "width": "33%",
             "alignment": "center"
           }
         }
       },
       "block_order": [
+        "liquid_P98zrV",
         "image_XeAKPg",
-        "image_BrEU4L",
-        "liquid_P98zrV"
+        "image_BrEU4L"
       ],
       "settings": {
         "full_width": false,
