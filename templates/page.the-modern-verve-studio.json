@@ -292,6 +292,7 @@
         "image_VMFrL9": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Modern_Verve_Flute_Series_Endless_Wand_Fixture_FLEW2_b_-_Copy.jpg",
             "link": "",
             "width": "33%",
             "alignment": "center"
@@ -308,6 +309,7 @@
         "image_pfFAUU": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Modern_Verve_Flute_Series_2-20_Chandelier.jpg",
             "link": "",
             "width": "33%",
             "alignment": "center"
