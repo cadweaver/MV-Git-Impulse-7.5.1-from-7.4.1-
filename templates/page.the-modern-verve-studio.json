@@ -71,7 +71,7 @@
       ],
       "settings": {
         "full_width": true,
-        "space_around": false,
+        "space_around": true,
         "lazyload_images": true
       }
     },
@@ -140,7 +140,7 @@
       ],
       "settings": {
         "full_width": true,
-        "space_around": false,
+        "space_around": true,
         "lazyload_images": true
       }
     },
@@ -200,7 +200,7 @@
       ],
       "settings": {
         "full_width": true,
-        "space_around": false,
+        "space_around": true,
         "lazyload_images": true
       }
     },
@@ -241,7 +241,7 @@
       ],
       "settings": {
         "full_width": true,
-        "space_around": false,
+        "space_around": true,
         "lazyload_images": true
       }
     },
@@ -282,7 +282,7 @@
       ],
       "settings": {
         "full_width": true,
-        "space_around": false,
+        "space_around": true,
         "lazyload_images": true
       }
     },
@@ -323,7 +323,7 @@
       ],
       "settings": {
         "full_width": true,
-        "space_around": false,
+        "space_around": true,
         "lazyload_images": true
       }
     },
@@ -364,7 +364,7 @@
       ],
       "settings": {
         "full_width": true,
-        "space_around": false,
+        "space_around": true,
         "lazyload_images": true
       }
     },
