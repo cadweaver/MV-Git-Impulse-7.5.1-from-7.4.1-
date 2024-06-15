@@ -41,7 +41,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Modern_Verve_Seattle_Studio_sq.jpg",
-            "link": "",
+            "link": "shopify:\/\/pages\/contact",
             "width": "33%",
             "alignment": "center"
           }
@@ -50,7 +50,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Modern_Verve_Studio_4.jpg",
-            "link": "",
+            "link": "shopify:\/\/collections\/about",
             "width": "33%",
             "alignment": "center"
           }
@@ -170,7 +170,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/modern_verve_Flute_Series_2_20_Chandelier_YY_1327.jpg",
-            "link": "",
+            "link": "shopify:\/\/products\/flute-series-3-30-chandelier-copy",
             "width": "33%",
             "alignment": "center"
           }
