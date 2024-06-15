@@ -223,15 +223,58 @@
             "width": "66%",
             "alignment": "center"
           }
+        },
+        "image_WpPhND": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/modern_verve_aria_branching_mc_bby_asq.jpg",
+            "link": "",
+            "width": "33%",
+            "alignment": "center"
+          }
         }
       },
       "block_order": [
         "liquid_P98zrV",
-        "image_XeAKPg"
+        "image_XeAKPg",
+        "image_WpPhND"
       ],
       "settings": {
         "full_width": true,
         "space_around": false,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_NzDKzG": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_UKAN3J": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/modern_verve_aria_branching_mc_bby_asq.jpg",
+            "link": "",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "image_tmAEtp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/modern_verve_aria_branching_mc_bby_a_rec.jpg",
+            "link": "",
+            "width": "66%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_UKAN3J",
+        "image_tmAEtp"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
         "lazyload_images": true
       }
     },
@@ -396,6 +439,7 @@
     "rich_text_nGiCgi",
     "advanced_content_9qYBdk",
     "advanced_content_TPfQGA",
+    "advanced_content_NzDKzG",
     "advanced_content_biNYeD",
     "advanced_content_bKWFqB",
     "advanced_content_friqNi",
