@@ -215,28 +215,18 @@
             "alignment": "center"
           }
         },
-        "image_BrEU4L": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Modern_Verve_Aria_Branching_MCBY_1350.jpg",
-            "link": "shopify:\/\/products\/aria-4m-pendant",
-            "width": "33%",
-            "alignment": "center"
-          }
-        },
         "image_XeAKPg": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Modern_Verve_Aria_Branching__mc2.jpg",
+            "image": "shopify:\/\/shop_images\/Modern_Verve_Flute_Series_Endless_Horizontal_Wand_LED_Fixture_H-1_BSQ.jpg",
             "link": "shopify:\/\/products\/aria-4m-pendant",
-            "width": "33%",
+            "width": "66%",
             "alignment": "center"
           }
         }
       },
       "block_order": [
         "liquid_P98zrV",
-        "image_BrEU4L",
         "image_XeAKPg"
       ],
       "settings": {
