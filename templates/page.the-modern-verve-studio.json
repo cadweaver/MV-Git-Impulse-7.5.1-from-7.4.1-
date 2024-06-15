@@ -187,7 +187,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/modern_verve_Wall_Boom_Aria_4M_YT_112_sq.jpg",
-            "link": "",
+            "link": "shopify:\/\/products\/wall-boom-series-aria-4m-58",
             "width": "33%",
             "alignment": "center"
           }
@@ -219,7 +219,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Modern_Verve_Aria_Branching_MCBY_1350.jpg",
-            "link": "",
+            "link": "shopify:\/\/products\/aria-4m-pendant",
             "width": "33%",
             "alignment": "center"
           }
@@ -228,7 +228,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Modern_Verve_Aria_Branching__mc2.jpg",
-            "link": "",
+            "link": "shopify:\/\/products\/aria-4m-pendant",
             "width": "33%",
             "alignment": "center"
           }
