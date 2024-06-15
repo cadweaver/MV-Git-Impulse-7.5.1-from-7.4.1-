@@ -178,7 +178,7 @@
         "liquid_F7mJ3y": {
           "type": "liquid",
           "settings": {
-            "code": "<style>\n video {\n width: 100%;\n height: 360;\n display: block;\n margin: 0 auto;\n }\n <\/style>\n <video muted autoplay playsinline loop>\n     <source src=\" https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/91d6d7e5953f44bdb687f7c3827e512b.mp4\" type=\"video\/mp4\">\n     <source src=\" https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/91d6d7e5953f44bdb687f7c3827e512b.mp4\" type=\"video\/mp4\"\n                   type=\"video\/mp4\">\n <\/video>",
+            "code": "<style>\n video {\n width: 100%;\n height: 360;\n display: block;\n margin: 0 auto;\n }\n <\/style>\n <video muted autoplay playsinline loop>\n     <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c0babd9bbe4c4125ae7227d8ccfc0a50.mp4\" type=\"video\/mp4\">\n     <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c0babd9bbe4c4125ae7227d8ccfc0a50.mp4\" type=\"video\/mp4\"\n                   type=\"video\/mp4\">\n <\/video>",
             "width": "33%",
             "alignment": "center"
           }
