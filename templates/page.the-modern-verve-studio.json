@@ -378,21 +378,11 @@
             "width": "66%",
             "alignment": "center"
           }
-        },
-        "image_tbHnbr": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "link": "",
-            "width": "100%",
-            "alignment": "center"
-          }
         }
       },
       "block_order": [
         "liquid_KLL8Q8",
-        "image_fWwTmC",
-        "image_tbHnbr"
+        "image_fWwTmC"
       ],
       "settings": {
         "full_width": true,
