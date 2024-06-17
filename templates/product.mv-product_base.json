@@ -3,11 +3,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "price": {
-          "type": "price",
-          "settings": {
-          }
-        },
         "separator": {
           "type": "separator",
           "settings": {
@@ -24,6 +19,7 @@
         },
         "sales_point": {
           "type": "sales_point",
+          "disabled": true,
           "settings": {
             "icon": "globe",
             "text": "Free worldwide shipping"
@@ -35,6 +31,11 @@
           "settings": {
             "inventory_threshold": 10,
             "inventory_transfers_enable": true
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
           }
         },
         "buy_buttons": {
@@ -73,11 +74,11 @@
         }
       },
       "block_order": [
-        "price",
         "separator",
         "variant_picker",
         "sales_point",
         "inventory_status",
+        "price",
         "buy_buttons",
         "description",
         "tab",
