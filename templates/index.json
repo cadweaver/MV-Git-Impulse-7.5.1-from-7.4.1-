@@ -154,7 +154,7 @@
       ],
       "settings": {
         "title": "",
-        "divider": true,
+        "divider": false,
         "per_row": 2,
         "enable_gutter": true
       }
