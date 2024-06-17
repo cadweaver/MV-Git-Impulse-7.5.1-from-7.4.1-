@@ -132,7 +132,7 @@
           "settings": {
             "collection": "spark-series",
             "title": "",
-            "focal_point": "80% 0"
+            "focal_point": "center center"
           }
         },
         "collection_UaQjNG": {
