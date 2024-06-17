@@ -116,7 +116,7 @@
         "layout": "left",
         "height": 550,
         "framed": false,
-        "parallax": false,
+        "parallax": true,
         "parallax_direction": "top",
         "lazyload_images": true
       }
@@ -197,6 +197,7 @@
         "testimonials-1",
         "testimonials-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "Testimonials",
         "align_text": "center",
