@@ -108,7 +108,7 @@
           "settings": {
             "collection": "flute-series",
             "title": "",
-            "focal_point": "80% 0"
+            "focal_point": "center center"
           }
         },
         "featured-collections-1": {
