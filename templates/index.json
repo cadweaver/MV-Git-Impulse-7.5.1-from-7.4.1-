@@ -156,7 +156,7 @@
         "title": "",
         "divider": false,
         "per_row": 2,
-        "enable_gutter": true
+        "enable_gutter": false
       }
     },
     "rich_text_pzhBXe": {
