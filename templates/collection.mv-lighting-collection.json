@@ -5,6 +5,7 @@
       "blocks": {
         "banner": {
           "type": "banner",
+          "disabled": true,
           "settings": {
             "heading": "Banner promotion",
             "text": "Add the details of your promotion in smaller text",
@@ -40,7 +41,6 @@
         "banner",
         "advanced"
       ],
-      "disabled": true,
       "settings": {
         "full_width": false,
         "gutter_size": 20,
@@ -55,10 +55,10 @@
       "settings": {
         "title": "Featured collection",
         "home_featured_products": "",
-        "per_row": 4,
-        "rows": 1,
+        "per_row": 3,
+        "rows": 3,
         "mobile_scrollable": true,
-        "view_all": true,
+        "view_all": false,
         "divider": false
       }
     },
