@@ -15,18 +15,19 @@
         "advanced_Dz9xtR": {
           "type": "advanced",
           "settings": {
-            "subheading": "Limited time",
-            "heading": "Announce your promotion",
-            "textarea": "Include the smaller details of your promotion in text below the title.",
-            "cta_text1": "Shop This",
-            "cta_link1": "",
-            "cta_text2": "Shop All",
-            "cta_link2": "",
+            "subheading": "WALL BOOM COLLECTION",
+            "heading": "",
+            "textarea": "",
+            "cta_text1": "",
+            "cta_link1": "shopify:\/\/products\/wall-boom-series-aria-4m-58",
+            "cta_text2": "",
+            "cta_link2": "shopify:\/\/products\/wall-boom-series-aria-4m-58",
+            "image": "shopify:\/\/shop_images\/Modern_Verve___Aria_Wall_Light_Seattle_sq.jpg",
             "video_url": "",
             "width": "33",
             "height": 500,
             "text_size": 120,
-            "text_align": "vertical-center horizontal-center",
+            "text_align": "vertical-bottom horizontal-left",
             "color_accent": "rgba(0,0,0,0)",
             "boxed": false,
             "framed": false
@@ -112,6 +113,41 @@
         "divider": false
       }
     },
+    "promo_grid_GGDLhF": {
+      "type": "promo-grid",
+      "blocks": {
+        "advanced_yWGr3d": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Limited time",
+            "heading": "Announce your promotion",
+            "textarea": "Include the smaller details of your promotion in text below the title.",
+            "cta_text1": "Shop This",
+            "cta_link1": "",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "video_url": "",
+            "width": "100",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "advanced_yWGr3d"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 10,
+        "space_above": false,
+        "space_below": true,
+        "lazyload_images": true
+      }
+    },
     "promo-grid2": {
       "type": "promo-grid",
       "blocks": {
@@ -134,14 +170,35 @@
             "boxed": false,
             "framed": false
           }
+        },
+        "advanced_EbrjgY": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Limited time",
+            "heading": "Announce your promotion",
+            "textarea": "Include the smaller details of your promotion in text below the title.",
+            "cta_text1": "Shop This",
+            "cta_link1": "",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
         }
       },
       "block_order": [
-        "advanced"
+        "advanced",
+        "advanced_EbrjgY"
       ],
       "settings": {
         "full_width": true,
-        "gutter_size": 20,
+        "gutter_size": 10,
         "space_above": false,
         "space_below": true,
         "lazyload_images": true
@@ -263,6 +320,7 @@
     "promo-grid",
     "featured-collection",
     "featured-collection2",
+    "promo_grid_GGDLhF",
     "promo-grid2",
     "featured-collection3",
     "featured-collections",
