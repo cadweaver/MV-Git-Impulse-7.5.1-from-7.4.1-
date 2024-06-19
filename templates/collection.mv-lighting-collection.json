@@ -1,22 +1,18 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "promo-grid": {
       "type": "promo-grid",
       "blocks": {
-        "banner": {
-          "type": "banner",
-          "disabled": true,
-          "settings": {
-            "heading": "Banner promotion",
-            "text": "Add the details of your promotion in smaller text",
-            "link": "",
-            "label": "Shop now",
-            "color_tint": "#e95454",
-            "color_tint_opacity": 8,
-            "framed": false
-          }
-        },
-        "advanced": {
+        "advanced_Dz9xtR": {
           "type": "advanced",
           "settings": {
             "subheading": "Limited time",
@@ -27,7 +23,47 @@
             "cta_text2": "Shop All",
             "cta_link2": "",
             "video_url": "",
-            "width": "100",
+            "width": "33",
+            "height": 500,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "advanced_9qykVL": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Limited time",
+            "heading": "Announce your promotion",
+            "textarea": "Include the smaller details of your promotion in text below the title.",
+            "cta_text1": "Shop This",
+            "cta_link1": "",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "video_url": "",
+            "width": "33",
+            "height": 500,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "advanced_AzqXnN": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Limited time",
+            "heading": "Announce your promotion",
+            "textarea": "Include the smaller details of your promotion in text below the title.",
+            "cta_text1": "Shop This",
+            "cta_link1": "",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "video_url": "",
+            "width": "33",
             "height": 500,
             "text_size": 120,
             "text_align": "vertical-center horizontal-center",
@@ -38,14 +74,15 @@
         }
       },
       "block_order": [
-        "banner",
-        "advanced"
+        "advanced_Dz9xtR",
+        "advanced_9qykVL",
+        "advanced_AzqXnN"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "gutter_size": 20,
-        "space_above": true,
-        "space_below": false,
+        "space_above": false,
+        "space_below": true,
         "lazyload_images": true
       }
     },
@@ -78,18 +115,6 @@
     "promo-grid2": {
       "type": "promo-grid",
       "blocks": {
-        "simple": {
-          "type": "simple",
-          "settings": {
-            "link": "",
-            "text": "",
-            "width": "50",
-            "height": 300,
-            "color_tint": "#000000",
-            "color_tint_opacity": 8,
-            "framed": false
-          }
-        },
         "advanced": {
           "type": "advanced",
           "settings": {
@@ -112,14 +137,13 @@
         }
       },
       "block_order": [
-        "simple",
         "advanced"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "gutter_size": 20,
         "space_above": false,
-        "space_below": false,
+        "space_below": true,
         "lazyload_images": true
       }
     },
