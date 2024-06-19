@@ -80,7 +80,7 @@
       ],
       "settings": {
         "full_width": true,
-        "gutter_size": 20,
+        "gutter_size": 10,
         "space_above": false,
         "space_below": true,
         "lazyload_images": true
