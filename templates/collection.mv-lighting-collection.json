@@ -207,6 +207,83 @@
         "lazyload_images": true
       }
     },
+    "promo_grid_mWfCJi": {
+      "type": "promo-grid",
+      "blocks": {
+        "advanced_jA4Jym": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Limited time",
+            "heading": "Announce your promotion",
+            "textarea": "Include the smaller details of your promotion in text below the title.",
+            "cta_text1": "Shop This",
+            "cta_link1": "",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "video_url": "",
+            "width": "33",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "advanced_6BPG7G": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "FLUTE SERIES CHANDELIER 3-30",
+            "heading": "",
+            "textarea": "",
+            "cta_text1": "",
+            "cta_link1": "shopify:\/\/products\/flute-series-3-30-chandelier",
+            "cta_text2": "",
+            "cta_link2": "shopify:\/\/products\/flute-series-3-30-chandelier",
+            "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/78e5202697e245c6900ff84044d690f1.mp4",
+            "width": "33",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-bottom horizontal-left",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "advanced_t3Xiqi": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Limited time",
+            "heading": "Announce your promotion",
+            "textarea": "Include the smaller details of your promotion in text below the title.",
+            "cta_text1": "Shop This",
+            "cta_link1": "",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "video_url": "",
+            "width": "33",
+            "height": 500,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "advanced_jA4Jym",
+        "advanced_6BPG7G",
+        "advanced_t3Xiqi"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 10,
+        "space_above": false,
+        "space_below": true,
+        "lazyload_images": true
+      }
+    },
     "featured-collection3": {
       "type": "featured-collection",
       "disabled": true,
@@ -325,6 +402,7 @@
     "featured-collection2",
     "promo_grid_GGDLhF",
     "promo-grid2",
+    "promo_grid_mWfCJi",
     "featured-collection3",
     "featured-collections",
     "main-collection"
