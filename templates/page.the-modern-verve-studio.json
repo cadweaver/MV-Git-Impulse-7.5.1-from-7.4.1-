@@ -351,6 +351,7 @@
         "image_kCbA6m": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/modern_verve_reed_sconce_10S_bn_2.jpg",
             "link": "",
             "width": "33%",
             "alignment": "center"
