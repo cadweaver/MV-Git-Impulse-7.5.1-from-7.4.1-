@@ -172,6 +172,47 @@
         "divider": false
       }
     },
+    "advanced_content_Wnh6Na": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_PLibCk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Modern_Verve_Flute_3-30_Chandelier_CC.jpg",
+            "link": "",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "image_tgbDYK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Modern_Verve_Flute_Series_3_30_chandelier_Custom_PN_sq2.jpg",
+            "link": "",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_DcLkYD": {
+          "type": "liquid",
+          "settings": {
+            "code": "<style>\n video {\n width: 100%;\n height: 360;\n display: block;\n margin: 0 auto;\n }\n <\/style>\n <video muted autoplay playsinline loop>\n     <source src=\" https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/07f6dac220c645739e177d5b8282ff54.mp4\"\n                   type=\"video\/mp4\">\n     <source src=\" https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/07f6dac220c645739e177d5b8282ff54.mp4\"\n                   type=\"video\/mp4\">\n <\/video>",
+            "width": "33%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_PLibCk",
+        "image_tgbDYK",
+        "liquid_DcLkYD"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
     "advanced_content_biNYeD": {
       "type": "advanced-content",
       "blocks": {
@@ -211,47 +252,6 @@
       "settings": {
         "full_width": true,
         "space_around": false,
-        "lazyload_images": true
-      }
-    },
-    "advanced_content_Wnh6Na": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_PLibCk": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Modern_Verve_Flute_3-30_Chandelier_CC.jpg",
-            "link": "",
-            "width": "33%",
-            "alignment": "center"
-          }
-        },
-        "image_tgbDYK": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Modern_Verve_Flute_Series_3_30_chandelier_Custom_PN_sq2.jpg",
-            "link": "",
-            "width": "33%",
-            "alignment": "center"
-          }
-        },
-        "liquid_DcLkYD": {
-          "type": "liquid",
-          "settings": {
-            "code": "<style>\n video {\n width: 100%;\n height: 360;\n display: block;\n margin: 0 auto;\n }\n <\/style>\n <video muted autoplay playsinline loop>\n     <source src=\" https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/07f6dac220c645739e177d5b8282ff54.mp4\"\n                   type=\"video\/mp4\">\n     <source src=\" https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/07f6dac220c645739e177d5b8282ff54.mp4\"\n                   type=\"video\/mp4\">\n <\/video>",
-            "width": "33%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_PLibCk",
-        "image_tgbDYK",
-        "liquid_DcLkYD"
-      ],
-      "settings": {
-        "full_width": true,
-        "space_around": true,
         "lazyload_images": true
       }
     },
@@ -578,8 +578,8 @@
     "rich_text_VzVCHW",
     "advanced_content_8PTbLM",
     "rich_text_nGiCgi",
-    "advanced_content_biNYeD",
     "advanced_content_Wnh6Na",
+    "advanced_content_biNYeD",
     "advanced_content_9qYBdk",
     "advanced_content_TPfQGA",
     "advanced_content_NzDKzG",
