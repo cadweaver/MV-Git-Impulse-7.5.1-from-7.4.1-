@@ -356,10 +356,10 @@
             "alignment": "center"
           }
         },
-        "liquid_WTKQ68": {
-          "type": "liquid",
+        "image_QqJVrJ": {
+          "type": "image",
           "settings": {
-            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "link": "",
             "width": "33%",
             "alignment": "center"
           }
@@ -368,7 +368,7 @@
       "block_order": [
         "liquid_7WWzjK",
         "image_kCbA6m",
-        "liquid_WTKQ68"
+        "image_QqJVrJ"
       ],
       "settings": {
         "full_width": true,
