@@ -391,7 +391,7 @@
           "type": "liquid",
           "settings": {
             "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
-            "width": "100%",
+            "width": "33%",
             "alignment": "center"
           }
         }
@@ -402,8 +402,39 @@
         "liquid_WTKQ68"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_LemrJ6": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_KLL8Q8": {
+          "type": "liquid",
+          "settings": {
+            "code": "<style>\n video {\n width: 100%;\n height: 360;\n display: block;\n margin: 0 auto;\n }\n <\/style>\n <video muted autoplay playsinline loop>\n     <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/898b5ea821d44f31842a9b95479dfc02.mp4\"\n                   type=\"video\/mp4\">\n     <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/898b5ea821d44f31842a9b95479dfc02.mp4\"\n                   type=\"video\/mp4\">\n <\/video>",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "image_fWwTmC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_Modern_Verve_Flute_Series_Endless_Horizontal_Wand_LED_Fixture_H-1_BSQa.jpg",
+            "link": "",
+            "width": "66%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_KLL8Q8",
+        "image_fWwTmC"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false,
         "lazyload_images": true
       }
     },
@@ -441,37 +472,6 @@
         "liquid_mCTebk",
         "image_cdGn6V",
         "image_pXwcfh"
-      ],
-      "settings": {
-        "full_width": true,
-        "space_around": false,
-        "lazyload_images": true
-      }
-    },
-    "advanced_content_LemrJ6": {
-      "type": "advanced-content",
-      "blocks": {
-        "liquid_KLL8Q8": {
-          "type": "liquid",
-          "settings": {
-            "code": "<style>\n video {\n width: 100%;\n height: 360;\n display: block;\n margin: 0 auto;\n }\n <\/style>\n <video muted autoplay playsinline loop>\n     <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/898b5ea821d44f31842a9b95479dfc02.mp4\"\n                   type=\"video\/mp4\">\n     <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/898b5ea821d44f31842a9b95479dfc02.mp4\"\n                   type=\"video\/mp4\">\n <\/video>",
-            "width": "33%",
-            "alignment": "center"
-          }
-        },
-        "image_fWwTmC": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2_Modern_Verve_Flute_Series_Endless_Horizontal_Wand_LED_Fixture_H-1_BSQa.jpg",
-            "link": "",
-            "width": "66%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "liquid_KLL8Q8",
-        "image_fWwTmC"
       ],
       "settings": {
         "full_width": true,
@@ -623,8 +623,8 @@
     "advanced_content_9qYBdk",
     "advanced_content_NzDKzG",
     "advanced_content_azgcC7",
-    "advanced_content_bKWFqB",
     "advanced_content_LemrJ6",
+    "advanced_content_bKWFqB",
     "advanced_content_friqNi",
     "rich_text_GFwtgD",
     "advanced_content_JFpXPP",
