@@ -442,15 +442,6 @@
     "advanced_content_friqNi": {
       "type": "advanced-content",
       "blocks": {
-        "image_VMFrL9": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Modern_Verve_Flute_Series_Endless_Wand_Fixture_FLEW2_b_-_Copy.jpg",
-            "link": "",
-            "width": "33%",
-            "alignment": "center"
-          }
-        },
         "liquid_dGawCV": {
           "type": "liquid",
           "settings": {
@@ -459,20 +450,18 @@
             "alignment": "center"
           }
         },
-        "image_pfFAUU": {
-          "type": "image",
+        "liquid_bHXnUm": {
+          "type": "liquid",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Modern_Verve_Flute_Series_2-20_Chandelier.jpg",
-            "link": "",
-            "width": "33%",
+            "code": "<style>\n video {\n width: 100%;\n height: 360;\n display: block;\n margin: 0 auto;\n }\n <\/style>\n <video muted autoplay playsinline loop>\n     <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/7306b2d0e4394bfaa9eb60cd886fec44.mp4\"\n                   type=\"video\/mp4\">\n     <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/7306b2d0e4394bfaa9eb60cd886fec44.mp4\"\n                   type=\"video\/mp4\">\n <\/video>",
+            "width": "66%",
             "alignment": "center"
           }
         }
       },
       "block_order": [
-        "image_VMFrL9",
         "liquid_dGawCV",
-        "image_pfFAUU"
+        "liquid_bHXnUm"
       ],
       "settings": {
         "full_width": true,
