@@ -528,6 +528,7 @@
         "image_fXWNXJ": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/modern_verve_Flute_Series_2_20_Chandelier_YY_1327_c082c06c-8717-4e2e-85e6-ea7e0b911b31.jpg",
             "link": "",
             "width": "33%",
             "alignment": "center"
@@ -536,6 +537,7 @@
         "image_DgrAAW": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Modern_Verve_Flute_Series_Endless_Wand_Fixture_FLEW2_b_-_Copy_30d4f457-a79d-46e5-a24f-99e17cd400ac.jpg",
             "link": "",
             "width": "33%",
             "alignment": "center"
@@ -544,6 +546,7 @@
         "image_rmxkDb": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Modern_Verve_Custom_Flute_Wand_Series_-_10L_20L_30L.jpg",
             "link": "",
             "width": "33%",
             "alignment": "center"
