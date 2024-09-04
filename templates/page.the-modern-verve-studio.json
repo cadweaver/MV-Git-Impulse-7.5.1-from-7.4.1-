@@ -415,7 +415,7 @@
         "image_fWwTmC": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2_Modern_Verve_Flute_Series_Endless_Horizontal_Wand_LED_Fixture_H-1_BSQa.jpg",
+            "image": "shopify:\/\/shop_images\/Modern_Verve_Balance_Series_48-3_LED_fixture_grey_pc_484bef74-1551-47c5-be9f-3b61c15727b3.jpg",
             "link": "",
             "width": "33%",
             "alignment": "center"
@@ -424,6 +424,7 @@
         "image_K7bzWX": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Modern_Verve_Lighting_Balance_48_3_MNY_fixture_Vetri__4.jpg",
             "link": "",
             "width": "33%",
             "alignment": "center"
@@ -432,8 +433,9 @@
         "image_CiCQf7": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/6_24_24_Balance_185.jpg",
             "link": "",
-            "width": "100%",
+            "width": "33%",
             "alignment": "center"
           }
         }
