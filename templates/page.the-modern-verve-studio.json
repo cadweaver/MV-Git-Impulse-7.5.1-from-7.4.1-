@@ -268,7 +268,7 @@
         "image_XeAKPg": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Modern_Verve_Aria_Branching__mc2.jpg",
+            "image": "shopify:\/\/shop_images\/1_Modern_Verve_Aria_bedroom_16_insta.jpg",
             "link": "shopify:\/\/products\/aria-4m-pendant",
             "width": "33%",
             "alignment": "center"
@@ -277,7 +277,7 @@
         "image_WpPhND": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Modern_Verve_Aria_Branching_MCBY_1350.jpg",
+            "image": "shopify:\/\/shop_images\/modern_verve_lighting_Aria_Cluster_Pendant_3D3_brass_nickel_porcelain_top_a.jpg",
             "link": "",
             "width": "33%",
             "alignment": "center"
@@ -307,11 +307,10 @@
             "alignment": "center"
           }
         },
-        "image_tmAEtp": {
-          "type": "image",
+        "liquid_rJ4eYT": {
+          "type": "liquid",
           "settings": {
-            "image": "shopify:\/\/shop_images\/modern_verve_aria_branching_mc_bby_a_rec.jpg",
-            "link": "",
+            "code": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c9363a48d3424b07bffed359ec0ec46c.mp4",
             "width": "66%",
             "alignment": "center"
           }
@@ -319,7 +318,7 @@
       },
       "block_order": [
         "image_UKAN3J",
-        "image_tmAEtp"
+        "liquid_rJ4eYT"
       ],
       "settings": {
         "full_width": true,
