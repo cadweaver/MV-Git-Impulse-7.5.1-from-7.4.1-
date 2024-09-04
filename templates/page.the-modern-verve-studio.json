@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -437,7 +446,7 @@
         "heading_6KhMiF": {
           "type": "heading",
           "settings": {
-            "title": ""
+            "title": "art lighting"
           }
         },
         "text_kgXDhW": {
@@ -458,6 +467,36 @@
         "narrow_column": true,
         "divider": false
       }
+    },
+    "advanced_content_MCWHR3": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_fjBLpN": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_qTbQbk": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "66%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_fjBLpN",
+        "liquid_qTbQbk"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -474,6 +513,7 @@
     "advanced_content_bKWFqB",
     "advanced_content_LemrJ6",
     "advanced_content_friqNi",
-    "rich_text_GFwtgD"
+    "rich_text_GFwtgD",
+    "advanced_content_MCWHR3"
   ]
 }
