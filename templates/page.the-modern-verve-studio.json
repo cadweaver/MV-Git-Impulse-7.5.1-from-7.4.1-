@@ -475,15 +475,7 @@
           "type": "liquid",
           "settings": {
             "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "image_K3EtRE": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "width": "50%",
+            "width": "33%",
             "alignment": "center"
           }
         },
@@ -495,12 +487,21 @@
             "width": "33%",
             "alignment": "center"
           }
+        },
+        "image_K3EtRE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Shea_Bajaj_Infinity_Box_2.jpg",
+            "link": "",
+            "width": "33%",
+            "alignment": "center"
+          }
         }
       },
       "block_order": [
         "liquid_rCtXJb",
-        "image_K3EtRE",
-        "image_EDCzgd"
+        "image_EDCzgd",
+        "image_K3EtRE"
       ],
       "settings": {
         "full_width": false,
