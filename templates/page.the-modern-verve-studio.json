@@ -178,6 +178,7 @@
         "image_PLibCk": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Modern_Verve_Flute_3-30_Chandelier_CC.jpg",
             "link": "",
             "width": "33%",
             "alignment": "center"
@@ -186,6 +187,7 @@
         "image_tgbDYK": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Modern_Verve_Flute_Series_3_30_chandelier_Custom_PN_sq2.jpg",
             "link": "",
             "width": "33%",
             "alignment": "center"
