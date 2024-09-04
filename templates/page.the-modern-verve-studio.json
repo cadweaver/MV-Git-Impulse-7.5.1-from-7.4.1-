@@ -490,6 +490,7 @@
         "image_EDCzgd": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Shea_Bajaj_Infinity_Box_1.jpg",
             "link": "",
             "width": "33%",
             "alignment": "center"
