@@ -179,7 +179,7 @@
           "type": "image",
           "settings": {
             "link": "",
-            "width": "50%",
+            "width": "33%",
             "alignment": "center"
           }
         },
@@ -187,7 +187,7 @@
           "type": "image",
           "settings": {
             "link": "",
-            "width": "100%",
+            "width": "33%",
             "alignment": "center"
           }
         },
@@ -195,7 +195,7 @@
           "type": "liquid",
           "settings": {
             "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
-            "width": "50%",
+            "width": "33%",
             "alignment": "center"
           }
         }
