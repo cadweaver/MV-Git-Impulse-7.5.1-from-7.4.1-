@@ -296,6 +296,37 @@
         "lazyload_images": true
       }
     },
+    "advanced_content_NzDKzG": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_UKAN3J": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/modern_verve_aria_branching_mc_bby_asq_8b46ff3d-179c-453e-bbb7-28d497ed15e3.jpg",
+            "link": "",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_rJ4eYT": {
+          "type": "liquid",
+          "settings": {
+            "code": "<style>\n video {\n width: 100%;\n height: 360;\n display: block;\n margin: 0 auto;\n }\n <\/style>\n <video muted autoplay playsinline loop>\n     <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c9363a48d3424b07bffed359ec0ec46c.mp4\"\n                   type=\"video\/mp4\">\n     <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c9363a48d3424b07bffed359ec0ec46c.mp4\"\n                   type=\"video\/mp4\">\n <\/video>",
+            "width": "66%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_UKAN3J",
+        "liquid_rJ4eYT"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "lazyload_images": true
+      }
+    },
     "advanced_content_9qYBdk": {
       "type": "advanced-content",
       "blocks": {
@@ -378,37 +409,6 @@
         "lazyload_images": true
       }
     },
-    "advanced_content_NzDKzG": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_UKAN3J": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/modern_verve_aria_branching_mc_bby_asq_8b46ff3d-179c-453e-bbb7-28d497ed15e3.jpg",
-            "link": "",
-            "width": "33%",
-            "alignment": "center"
-          }
-        },
-        "liquid_rJ4eYT": {
-          "type": "liquid",
-          "settings": {
-            "code": "<style>\n video {\n width: 100%;\n height: 360;\n display: block;\n margin: 0 auto;\n }\n <\/style>\n <video muted autoplay playsinline loop>\n     <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c9363a48d3424b07bffed359ec0ec46c.mp4\"\n                   type=\"video\/mp4\">\n     <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c9363a48d3424b07bffed359ec0ec46c.mp4\"\n                   type=\"video\/mp4\">\n <\/video>",
-            "width": "66%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_UKAN3J",
-        "liquid_rJ4eYT"
-      ],
-      "settings": {
-        "full_width": true,
-        "space_around": false,
-        "lazyload_images": true
-      }
-    },
     "advanced_content_LemrJ6": {
       "type": "advanced-content",
       "blocks": {
@@ -451,6 +451,36 @@
         "lazyload_images": true
       }
     },
+    "advanced_content_friqNi": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_bHXnUm": {
+          "type": "liquid",
+          "settings": {
+            "code": "<style>\n video {\n width: 100%;\n height: 360;\n display: block;\n margin: 0 auto;\n }\n <\/style>\n <video muted autoplay playsinline loop>\n     <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/7306b2d0e4394bfaa9eb60cd886fec44.mp4\"\n                   type=\"video\/mp4\">\n     <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/7306b2d0e4394bfaa9eb60cd886fec44.mp4\"\n                   type=\"video\/mp4\">\n <\/video>",
+            "width": "66%",
+            "alignment": "center"
+          }
+        },
+        "liquid_dGawCV": {
+          "type": "liquid",
+          "settings": {
+            "code": "<style>\n video {\n width: 100%;\n height: 360;\n display: block;\n margin: 0 auto;\n }\n <\/style>\n <video muted autoplay playsinline loop>\n     <source src=\" https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/ad5a88dc8fc341f0bc2a1b3850a9aac3.mp4\">\n     <source src=\" https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/ad5a88dc8fc341f0bc2a1b3850a9aac3.mp4\" type=\"video\/mp4\"\n                   type=\"video\/mp4\">\n <\/video>",
+            "width": "33%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_bHXnUm",
+        "liquid_dGawCV"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "lazyload_images": true
+      }
+    },
     "advanced_content_bKWFqB": {
       "type": "advanced-content",
       "blocks": {
@@ -485,36 +515,6 @@
         "liquid_mCTebk",
         "image_cdGn6V",
         "image_pXwcfh"
-      ],
-      "settings": {
-        "full_width": true,
-        "space_around": false,
-        "lazyload_images": true
-      }
-    },
-    "advanced_content_friqNi": {
-      "type": "advanced-content",
-      "blocks": {
-        "liquid_bHXnUm": {
-          "type": "liquid",
-          "settings": {
-            "code": "<style>\n video {\n width: 100%;\n height: 360;\n display: block;\n margin: 0 auto;\n }\n <\/style>\n <video muted autoplay playsinline loop>\n     <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/7306b2d0e4394bfaa9eb60cd886fec44.mp4\"\n                   type=\"video\/mp4\">\n     <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/7306b2d0e4394bfaa9eb60cd886fec44.mp4\"\n                   type=\"video\/mp4\">\n <\/video>",
-            "width": "66%",
-            "alignment": "center"
-          }
-        },
-        "liquid_dGawCV": {
-          "type": "liquid",
-          "settings": {
-            "code": "<style>\n video {\n width: 100%;\n height: 360;\n display: block;\n margin: 0 auto;\n }\n <\/style>\n <video muted autoplay playsinline loop>\n     <source src=\" https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/ad5a88dc8fc341f0bc2a1b3850a9aac3.mp4\">\n     <source src=\" https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/ad5a88dc8fc341f0bc2a1b3850a9aac3.mp4\" type=\"video\/mp4\"\n                   type=\"video\/mp4\">\n <\/video>",
-            "width": "33%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "liquid_bHXnUm",
-        "liquid_dGawCV"
       ],
       "settings": {
         "full_width": true,
@@ -633,12 +633,12 @@
     "advanced_content_Wnh6Na",
     "advanced_content_biNYeD",
     "advanced_content_TPfQGA",
+    "advanced_content_NzDKzG",
     "advanced_content_9qYBdk",
     "advanced_content_azgcC7",
-    "advanced_content_NzDKzG",
     "advanced_content_LemrJ6",
-    "advanced_content_bKWFqB",
     "advanced_content_friqNi",
+    "advanced_content_bKWFqB",
     "rich_text_GFwtgD",
     "advanced_content_JFpXPP",
     "advanced_content_MCWHR3"
