@@ -446,7 +446,7 @@
         "heading_6KhMiF": {
           "type": "heading",
           "settings": {
-            "title": "art lighting"
+            "title": "art projects"
           }
         },
         "text_kgXDhW": {
@@ -474,6 +474,7 @@
         "image_fjBLpN": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Shea_Bajaj_Solar_Dragonly_elevation_25.jpg",
             "link": "",
             "width": "33%",
             "alignment": "center"
