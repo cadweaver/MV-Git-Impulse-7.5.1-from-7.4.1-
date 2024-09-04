@@ -564,7 +564,7 @@
         "liquid_qTbQbk"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "space_around": true,
         "lazyload_images": true
       }
