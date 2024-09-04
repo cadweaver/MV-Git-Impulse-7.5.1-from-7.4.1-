@@ -255,47 +255,6 @@
         "lazyload_images": true
       }
     },
-    "advanced_content_9qYBdk": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_e4HgNA": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Modern_Verve___Aria_Wall_Light_Seattle_sq_716cef47-8b34-4568-a668-9e7ac0a81d7c.jpg",
-            "link": "shopify:\/\/products\/flute-series-3-30-chandelier-copy",
-            "width": "33%",
-            "alignment": "center"
-          }
-        },
-        "liquid_F7mJ3y": {
-          "type": "liquid",
-          "settings": {
-            "code": "<style>\n video {\n width: 100%;\n height: 360;\n display: block;\n margin: 0 auto;\n }\n <\/style>\n <video muted autoplay playsinline loop>\n     <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c0babd9bbe4c4125ae7227d8ccfc0a50.mp4\" type=\"video\/mp4\">\n     <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c0babd9bbe4c4125ae7227d8ccfc0a50.mp4\" type=\"video\/mp4\"\n                   type=\"video\/mp4\">\n <\/video>",
-            "width": "33%",
-            "alignment": "center"
-          }
-        },
-        "image_FLXATm": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/modern_verve_Wall_Boom_Aria_4M_YT_112_sq.jpg",
-            "link": "shopify:\/\/products\/wall-boom-series-aria-4m-58",
-            "width": "33%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_e4HgNA",
-        "liquid_F7mJ3y",
-        "image_FLXATm"
-      ],
-      "settings": {
-        "full_width": true,
-        "space_around": false,
-        "lazyload_images": true
-      }
-    },
     "advanced_content_TPfQGA": {
       "type": "advanced-content",
       "blocks": {
@@ -330,6 +289,47 @@
         "liquid_P98zrV",
         "image_XeAKPg",
         "image_WpPhND"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_9qYBdk": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_e4HgNA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Modern_Verve___Aria_Wall_Light_Seattle_sq_716cef47-8b34-4568-a668-9e7ac0a81d7c.jpg",
+            "link": "shopify:\/\/products\/flute-series-3-30-chandelier-copy",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_F7mJ3y": {
+          "type": "liquid",
+          "settings": {
+            "code": "<style>\n video {\n width: 100%;\n height: 360;\n display: block;\n margin: 0 auto;\n }\n <\/style>\n <video muted autoplay playsinline loop>\n     <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c0babd9bbe4c4125ae7227d8ccfc0a50.mp4\" type=\"video\/mp4\">\n     <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c0babd9bbe4c4125ae7227d8ccfc0a50.mp4\" type=\"video\/mp4\"\n                   type=\"video\/mp4\">\n <\/video>",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "image_FLXATm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/modern_verve_Wall_Boom_Aria_4M_YT_112_sq.jpg",
+            "link": "shopify:\/\/products\/wall-boom-series-aria-4m-58",
+            "width": "33%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_e4HgNA",
+        "liquid_F7mJ3y",
+        "image_FLXATm"
       ],
       "settings": {
         "full_width": true,
@@ -580,8 +580,8 @@
     "rich_text_nGiCgi",
     "advanced_content_Wnh6Na",
     "advanced_content_biNYeD",
-    "advanced_content_9qYBdk",
     "advanced_content_TPfQGA",
+    "advanced_content_9qYBdk",
     "advanced_content_NzDKzG",
     "advanced_content_bKWFqB",
     "advanced_content_LemrJ6",
