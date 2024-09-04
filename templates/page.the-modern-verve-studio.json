@@ -495,7 +495,7 @@
         "image_cdGn6V": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Modern_Verve_Flute_3-30_2id1350.jpg",
+            "image": "shopify:\/\/shop_images\/MLJacobson_Modern_Verve_Custom_Flute_Series_Chandelier_4-30_LED_Brushed_Brass_1_-_Copy.jpg",
             "link": "",
             "width": "33%",
             "alignment": "center"
@@ -504,7 +504,7 @@
         "image_pXwcfh": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Modern_Verve_Balance_Series_48-3_LED_fixture_grey_pc.jpg",
+            "image": "shopify:\/\/shop_images\/Modern_Verve_Flute_Series_Endless_Horizontal_Wand_LED_Fixture_H-1_inst_3408702a-c05d-4fe8-b224-f4b806270c74.jpg",
             "link": "",
             "width": "33%",
             "alignment": "center"
@@ -519,6 +519,45 @@
       "settings": {
         "full_width": true,
         "space_around": false,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_xyfpxx": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_fXWNXJ": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "image_DgrAAW": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "image_rmxkDb": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "33%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_fXWNXJ",
+        "image_DgrAAW",
+        "image_rmxkDb"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": true,
         "lazyload_images": true
       }
     },
@@ -639,6 +678,7 @@
     "advanced_content_LemrJ6",
     "advanced_content_friqNi",
     "advanced_content_bKWFqB",
+    "advanced_content_xyfpxx",
     "rich_text_GFwtgD",
     "advanced_content_JFpXPP",
     "advanced_content_MCWHR3"
