@@ -368,6 +368,45 @@
         "lazyload_images": true
       }
     },
+    "advanced_content_azgcC7": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_7WWzjK": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "image_kCbA6m": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_WTKQ68": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_7WWzjK",
+        "image_kCbA6m",
+        "liquid_WTKQ68"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
     "advanced_content_bKWFqB": {
       "type": "advanced-content",
       "blocks": {
@@ -583,6 +622,7 @@
     "advanced_content_TPfQGA",
     "advanced_content_9qYBdk",
     "advanced_content_NzDKzG",
+    "advanced_content_azgcC7",
     "advanced_content_bKWFqB",
     "advanced_content_LemrJ6",
     "advanced_content_friqNi",
