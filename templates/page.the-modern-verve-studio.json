@@ -194,7 +194,7 @@
         "liquid_DcLkYD": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "code": "<style>\n video {\n width: 100%;\n height: 360;\n display: block;\n margin: 0 auto;\n }\n <\/style>\n <video muted autoplay playsinline loop>\n     <source src=\" https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/07f6dac220c645739e177d5b8282ff54.mp4\"\n                   type=\"video\/mp4\">\n     <source src=\" https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/07f6dac220c645739e177d5b8282ff54.mp4\"\n                   type=\"video\/mp4\">\n <\/video>",
             "width": "33%",
             "alignment": "center"
           }
