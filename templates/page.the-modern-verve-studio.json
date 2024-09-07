@@ -1,0 +1,697 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "rich_text_bkByRx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_bePhze": {
+          "type": "heading",
+          "settings": {
+            "title": "the modern verve studio"
+          }
+        },
+        "text_cYQeh3": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>crafting light fixtures in seattle since 2013</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bePhze",
+        "text_cYQeh3"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "advanced_content_bH67kx": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_VLBbwB": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\"https://f24a1b-78.myshopify.com/collections/about\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0596/6289/3139/files/Modern_Verve_Seattle_Studio_sq.jpg?v=1717515991&width=720%\"> \n</a>\n\n\n<center> the modern verve studio",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_EAe83g": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\"https://f24a1b-78.myshopify.com/pages/about\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0596/6289/3139/files/Modern_Verve_Studio_4.jpg?v=1717516019&width=720%\"> \n</a>\n\n\n<center> the modern verve studio",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_p76RVm": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\"https://f24a1b-78.myshopify.com/collections/ceiling-lights/products/balance-series-48-3-fixture\">\n<style>\n video {\n width: 100%;\n height: 100%;\n display: block;\n margin: 0 auto;\n }\n </style>\n <video muted autoplay playsinline loop>\n     <source src=\" https://cdn.shopify.com/videos/c/o/v/196d8db3ae5e4017bdf5dc0c50f25748.mp4\">\n     <source src=\" https://cdn.shopify.com/videos/c/o/v/196d8db3ae5e4017bdf5dc0c50f25748.mp4\" type=\"video/mp4\"\n                   type=\"video/mp4\">\n</video>\n</a>\n\n<center> making in the studio",
+            "width": "33%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_VLBbwB",
+        "liquid_EAe83g",
+        "liquid_p76RVm"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_VzVCHW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yXy9RJ": {
+          "type": "heading",
+          "settings": {
+            "title": "the college years"
+          }
+        },
+        "text_REpqYh": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_yXy9RJ",
+        "text_REpqYh"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "advanced_content_8PTbLM": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_Rk6Ugx": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\" https://f24a1b-78.myshopify.com/pages/about \">\n<style>\n video {\n width: 100%;\n height: 100%;\n display: block;\n margin: 0 auto;\n }\n </style>\n <video muted autoplay playsinline loop>\n     <source src=\" https://cdn.shopify.com/videos/c/o/v/91d6d7e5953f44bdb687f7c3827e512b.mp4\" type=\"video/mp4\">\n     <source src=\" https://cdn.shopify.com/videos/c/o/v/91d6d7e5953f44bdb687f7c3827e512b.mp4\" type=\"video/mp4\"\n                   type=\"video/mp4\">\n </video>\n</a>\n\n<center> wall flower sculpture",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_KFRPaC": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\" https://f24a1b-78.myshopify.com/collections/about \">\n  <img src=\"https://cdn.shopify.com/s/files/1/0596/6289/3139/files/Shea_Bajaj_Spaceship_Lamp_drawing_rec_-_1080.jpg?v=1726770073&width=720%\"> \n</a>\n\n<center> space ship lamp design drawing",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_C7fnBF": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\" https://f24a1b-78.myshopify.com/collections/about \">\n  <img src=\"https://cdn.shopify.com/s/files/1/0596/6289/3139/files/Shea_Bajaj_Spaceship_Light_1080.jpg?v=1717462508&width=720%\"> \n</a>\n\n<center> space ship lamp",
+            "width": "33%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_Rk6Ugx",
+        "liquid_KFRPaC",
+        "liquid_C7fnBF"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_nGiCgi": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jQQQCw": {
+          "type": "heading",
+          "settings": {
+            "title": "current fixtures & projects"
+          }
+        }
+      },
+      "block_order": [
+        "heading_jQQQCw"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "advanced_content_Wnh6Na": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_NhqgDW": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\" https://f24a1b-78.myshopify.com/products/flute-series-3-30-chandelier\">\n  <img src=\" https://cdn.shopify.com/s/files/1/0596/6289/3139/files/Modern_Verve_Flute_3-30_Chandelier_CC.jpg?v=1725456364&width=720%\"> \n</a>\n\n<center> flute 3-30 chandelier",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_YLEKxq": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\" https://f24a1b-78.myshopify.com/products/flute-series-3-30-chandelier\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0596/6289/3139/files/Modern_Verve_Flute_Series_3_30_chandelier_Custom_PN_sq2.jpg?v=1725456338&width=720%\"> \n</a>\n\n<center> flute 3-30 chandelier",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_DcLkYD": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\" https://f24a1b-78.myshopify.com/products/flute-series-3-30-chandelier \">\n<style>\n video {\n width: 100%;\n height: 100%;\n display: block;\n margin: 0 auto;\n }\n </style>\n <video muted autoplay playsinline loop>\n     <source src=\" https://cdn.shopify.com/videos/c/o/v/07f6dac220c645739e177d5b8282ff54.mp4\"\n                   type=\"video/mp4\">\n     <source src=\" https://cdn.shopify.com/videos/c/o/v/07f6dac220c645739e177d5b8282ff54.mp4\"\n                   type=\"video/mp4\">\n </video>\n</a>\n\n<center> flute 3-30 chandelier",
+            "width": "33%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_NhqgDW",
+        "liquid_YLEKxq",
+        "liquid_DcLkYD"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_biNYeD": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_jQmxHQ": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\"https://f24a1b-78.myshopify.com/products/spark-series-4-30-chandelier\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0596/6289/3139/files/Modern_Verve_Spark_Chandeleir_4_30B_MZ_BN_27.jpg?v=1725461536&width=720%\"> \n</a>\n\n<center> spark 4-30b chandelier",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_YciYHD": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\"https://f24a1b-78.myshopify.com/products/spark-series-4-30-chandelier\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0596/6289/3139/files/Modern_Verve_Spark_Light_4-30_Burst_BN_Custom_Inst.jpg?v=1725461553&width=720%\"> \n</a>\n\n<center> spark 4-30b chandelier",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_pzg4Jb": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\"https://f24a1b-78.myshopify.com/products/spark-series-4-30-chandelier\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0596/6289/3139/files/Modern_Verve_Lighting_Ridgewood_Lobby_Spark_4_30_1350r.jpg?v=1717522935&width=720%\"> \n</a>\n\n<center> spark 4-30b chandelier",
+            "width": "33%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_jQmxHQ",
+        "liquid_YciYHD",
+        "liquid_pzg4Jb"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_TPfQGA": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_P98zrV": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\"https://f24a1b-78.myshopify.com/products/aria-4m-pendant\">\n<style>\n video {\n width: 100%;\n height: 100%;\n display: block;\n margin: 0 auto;\n }\n </style>\n <video muted autoplay playsinline loop>\n     <source src=\" https://cdn.shopify.com/videos/c/o/v/48e910e97d50420c8fbda19f50494362.mp4\">\n     <source src=\" https://cdn.shopify.com/videos/c/o/v/48e910e97d50420c8fbda19f50494362.mp4\" type=\"video/mp4\"\n                   type=\"video/mp4\">\n </video>\n</a>\n\n<center> aria series pendants",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_wgYtLj": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\"https://f24a1b-78.myshopify.com/products/aria-4m-pendant\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0596/6289/3139/files/1_Modern_Verve_Aria_bedroom_16_insta.jpg?v=1725456523&width=720%\"> \n</a>\n\n<center> aria 3m pendant",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_3E4dpX": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\"https://f24a1b-78.myshopify.com/products/aria-4m-pendant\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0596/6289/3139/files/modern_verve_lighting_Aria_Cluster_Pendant_3D3_brass_nickel_porcelain_top_a.jpg?v=1725456542&width=720%\"> \n</a>\n\n<center> aria 3m pendant",
+            "width": "33%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_P98zrV",
+        "liquid_wgYtLj",
+        "liquid_3E4dpX"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_NzDKzG": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_MQacUg": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\"https://f24a1b-78.myshopify.com/products/aria-4m-pendant\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0596/6289/3139/files/modern_verve_aria_branching_mc_bby_asq.jpg?v=1718486786&width=720%\"> \n</a>\n\n<center> aria branching chandelier",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_rJ4eYT": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\"https://f24a1b-78.myshopify.com/products/machine-flower-ellipse\">\n<style>\n video {\n width: 100%;\n height: 100%;\n display: block;\n margin: 0 auto;\n }\n </style>\n <video muted autoplay playsinline loop>\n     <source src=\"https://cdn.shopify.com/videos/c/o/v/1f942c5fdbae416a8468d2c060ee8380.mp4\"\n                   type=\"video/mp4\">\n     <source src=\"https://cdn.shopify.com/videos/c/o/v/1f942c5fdbae416a8468d2c060ee8380.mp4\"\n                   type=\"video/mp4\">\n </video>\n</a>\n\n<center> machine flower mechanical chandeliers",
+            "width": "66%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_MQacUg",
+        "liquid_rJ4eYT"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_9qYBdk": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_gzMgzW": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\"https://f24a1b-78.myshopify.com/products/wall-boom-series-aria-4m-58\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0596/6289/3139/files/Modern_Verve___Aria_Wall_Light_Seattle_sq_716cef47-8b34-4568-a668-9e7ac0a81d7c.jpg?v=1725459864&width=720%\"> \n</a>\n\n<center> wall boom armature + aria 4m pendant",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_F7mJ3y": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\"https://f24a1b-78.myshopify.com/products/wall-boom-series-aria-4m-58\">\n<style>\n video {\n width: 100%;\n height: 100%;\n display: block;\n margin: 0 auto;\n }\n </style>\n <video muted autoplay playsinline loop>\n     <source src=\"https://cdn.shopify.com/videos/c/o/v/c0babd9bbe4c4125ae7227d8ccfc0a50.mp4\" type=\"video/mp4\">\n     <source src=\"https://cdn.shopify.com/videos/c/o/v/c0babd9bbe4c4125ae7227d8ccfc0a50.mp4\" type=\"video/mp4\"\n                   type=\"video/mp4\">\n </video>\n</a>\n\n<center> wall boom armature + aria 4m pendant",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_Uh4jwy": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\"https://f24a1b-78.myshopify.com/products/wall-boom-series-aria-4m-58\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0596/6289/3139/files/modern_verve_Wall_Boom_Aria_4M_YT_112_sq.jpg?v=1717518979&width=720%\"> \n</a>\n\n<center> wall boom armature + aria 4m pendant",
+            "width": "33%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_gzMgzW",
+        "liquid_F7mJ3y",
+        "liquid_Uh4jwy"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_azgcC7": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_7WWzjK": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\"https://f24a1b-78.myshopify.com/products/wall-boom-series-aria-4m-58\">\n<style>\n video {\n width: 100%;\n height: 100%;\n display: block;\n margin: 0 auto;\n }\n </style>\n <video muted autoplay playsinline loop>\n     <source src=\" https://cdn.shopify.com/videos/c/o/v/15bca6697b0441aeba386724bf9d2cb2.mp4\"\n                   type=\"video/mp4\">\n     <source src=\" https://cdn.shopify.com/videos/c/o/v/15bca6697b0441aeba386724bf9d2cb2.mp4\"\n                   type=\"video/mp4\">\n </video>\n</a>\n\n<center> reed series pendants",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_ePwBGX": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\"https://f24a1b-78.myshopify.com/products/wall-boom-series-aria-4m-58\">\n  <img src=\" https://cdn.shopify.com/s/files/1/0596/6289/3139/files/2_Modern_Verve_Reed_Series_Pendants_3_M_Nickel_X_61b2e91f-e2b1-4d0d-bb79-2da34be32f80.jpg?v=1725462719 &width=720%\"> \n</a>\n\n<center> reed series pendants",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_gMddCN": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\"https://f24a1b-78.myshopify.com/products/wall-boom-series-aria-4m-58\">\n  <img src=\" https://cdn.shopify.com/s/files/1/0596/6289/3139/files/1_Modern_Verve_Reed_Series_Pendants_3_M_Nickel_horizontal_4c8af50e-958b-41ca-9323-a178199eddf6.jpg?v=1725462704&width=720%\"> \n</a>\n\n<center> reed series pendants",
+            "width": "33%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_7WWzjK",
+        "liquid_ePwBGX",
+        "liquid_gMddCN"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_Lj3Rxk": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_NVmQxU": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\"https://f24a1b-78.myshopify.com/collections/ceiling-lights/products/flute-series-3-30-chandelier-copy\">\n  <img src=\" https://cdn.shopify.com/s/files/1/0596/6289/3139/files/ModernVerve_FluteSeries2-20Chandelier.jpg?v=1717436201&width=720%\"> \n</a>\n\n<center> flute series chandelier 2-20",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_hLrgry": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\" https://f24a1b-78.myshopify.com/products/spark-series-3-30-chandelier\">\n  <img src=\" https://cdn.shopify.com/s/files/1/0596/6289/3139/files/Modern_Verve_Spark_Chandelier_3-30E_brass_Detal.jpg?v=1718820302\n&width=720%\"> \n</a>\n\n<center> spark series chandelier 3-30e",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_NVmQxU",
+        "liquid_hLrgry"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_LemrJ6": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_XKxRFW": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\"https://f24a1b-78.myshopify.com/collections/ceiling-lights/products/balance-series-48-3-fixture\">\n  <img src=\" https://cdn.shopify.com/s/files/1/0596/6289/3139/files/Modern_Verve_Balance_Series_48-3_LED_fixture_grey_pc.jpg?v=1717523135&width=720%\"> \n</a>\n\n<center> balance series fixture",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_KReNqf": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\"https://f24a1b-78.myshopify.com/collections/ceiling-lights/products/balance-series-48-3-fixture\">\n  <img src=\" https://cdn.shopify.com/s/files/1/0596/6289/3139/files/Modern_Verve_Lighting_Balance_48_3_MNY_fixture_Vetri__4.jpg?v=1725464218&width=720%\"> \n</a>\n\n<center> balance series fixture",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_jRVNRk": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\"https://f24a1b-78.myshopify.com/collections/ceiling-lights/products/balance-series-48-3-fixture\">\n  <img src=\" https://cdn.shopify.com/s/files/1/0596/6289/3139/files/6_24_24_Balance_185.jpg?v=1725464236&width=720%\"> \n</a>\n\n<center> balance series fixture",
+            "width": "33%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_XKxRFW",
+        "liquid_KReNqf",
+        "liquid_jRVNRk"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_bKWFqB": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_mCTebk": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\"https://f24a1b-78.myshopify.com/products/wall-boom-series-aria-4m-58\">\n<style>\n video {\n width: 100%;\n height: 100%;\n display: block;\n margin: 0 auto;\n }\n </style>\n <video muted autoplay playsinline loop>\n     <source src=\" https://cdn.shopify.com/videos/c/o/v/6e04f899a32c449fb3ee4da0971666ee.mp4\">\n     <source src=\" https://cdn.shopify.com/videos/c/o/v/6e04f899a32c449fb3ee4da0971666ee.mp4\" type=\"video/mp4\"\n                   type=\"video/mp4\">\n </video>\n</a>\n\n<center> jb magnet sconce",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_FCmhbk": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\"https://f24a1b-78.myshopify.com/collections/ceiling-lights/products/flute-series-3-30-chandelier\">\n  <img src=\" https://cdn.shopify.com/s/files/1/0596/6289/3139/files/MLJacobson_Modern_Verve_Custom_Flute_Series_Chandelier_4-30_LED_Brushed_Brass_1_-_Copy.jpg?v=1725464958&width=720%\"> \n</a>\n\n<center> flute series 4—30 chandelier",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_HeJ4Qq": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\"https://f24a1b-78.myshopify.com/collections/ceiling-lights/products/flute-series-3-30-chandelier\">\n  <img src=\" https://cdn.shopify.com/s/files/1/0596/6289/3139/files/Modern_Verve_Flute_Series_Endless_Horizontal_Wand_LED_Fixture_H-1_inst_3408702a-c05d-4fe8-b224-f4b806270c74.jpg?v=1725464580&width=720%\"> \n</a>\n\n<center> flute series endless wand h-1 fixture",
+            "width": "33%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_mCTebk",
+        "liquid_FCmhbk",
+        "liquid_HeJ4Qq"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_friqNi": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_bHXnUm": {
+          "type": "liquid",
+          "settings": {
+            "code": "<style>\n video {\n width: 100%;\n height: 360;\n display: block;\n margin: 0 auto;\n }\n </style>\n <video muted autoplay playsinline loop>\n     <source src=\"https://cdn.shopify.com/videos/c/o/v/7306b2d0e4394bfaa9eb60cd886fec44.mp4\"\n                   type=\"video/mp4\">\n     <source src=\"https://cdn.shopify.com/videos/c/o/v/7306b2d0e4394bfaa9eb60cd886fec44.mp4\"\n                   type=\"video/mp4\">\n </video>",
+            "width": "66%",
+            "alignment": "center"
+          }
+        },
+        "liquid_dGawCV": {
+          "type": "liquid",
+          "settings": {
+            "code": "<style>\n video {\n width: 100%;\n height: 360;\n display: block;\n margin: 0 auto;\n }\n </style>\n <video muted autoplay playsinline loop>\n     <source src=\" https://cdn.shopify.com/videos/c/o/v/ad5a88dc8fc341f0bc2a1b3850a9aac3.mp4\">\n     <source src=\" https://cdn.shopify.com/videos/c/o/v/ad5a88dc8fc341f0bc2a1b3850a9aac3.mp4\" type=\"video/mp4\"\n                   type=\"video/mp4\">\n </video>",
+            "width": "33%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_bHXnUm",
+        "liquid_dGawCV"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_xyfpxx": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_xN6maR": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\"https://f24a1b-78.myshopify.com/products/flute-series-2-20-chandelier\">\n  <img src=\" https://cdn.shopify.com/s/files/1/0596/6289/3139/files/modern_verve_Flute_Series_2_20_Chandelier_YY_1327_c082c06c-8717-4e2e-85e6-ea7e0b911b31.jpg?v=1725465136&width=720%\"> \n</a>\n\n<center> flute series 2-20 chandelier",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_Vg79Wt": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\"https://f24a1b-78.myshopify.com/collections/ceiling-lights/products/spark-series-2-20-chandelier-copy\">\n  <img src=\" https://cdn.shopify.com/s/files/1/0596/6289/3139/files/Modern_Verve_Spark_3_30_Chandelier_SJL_1_2232f9d1-1026-4500-a098-cef7c29ba0d1.jpg?v=1725465191&width=720%\"> \n</a>\n\n<center> spark series 3-30 chandelier",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_z7WF9D": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href=\"https://f24a1b-78.myshopify.com/collections/ceiling-lights/products/spark-series-2-20-chandelier-copy\">\n  <img src=\" https://cdn.shopify.com/s/files/1/0596/6289/3139/files/Modern_Verve_Flute_Series_Endless_Wand_Fixture_FLEW2_b_-_Copy_30d4f457-a79d-46e5-a24f-99e17cd400ac.jpg?v=1725465106&width=720%\"> \n</a>\n\n<center> endless horizontal wand ew2",
+            "width": "33%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_xN6maR",
+        "liquid_Vg79Wt",
+        "liquid_z7WF9D"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_GFwtgD": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6KhMiF": {
+          "type": "heading",
+          "settings": {
+            "title": "art projects"
+          }
+        },
+        "text_kgXDhW": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_6KhMiF",
+        "text_kgXDhW"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "advanced_content_JFpXPP": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_rCtXJb": {
+          "type": "liquid",
+          "settings": {
+            "code": "<style>\n video {\n width: 100%;\n height: 360;\n display: block;\n margin: 0 auto;\n }\n </style>\n <video muted autoplay playsinline loop>\n     <source src=\" https://cdn.shopify.com/videos/c/o/v/ad95e99c1c024c749bb3eb22c9b4dd95.mp4\"\n                   type=\"video/mp4\">\n     <source src=\" https://cdn.shopify.com/videos/c/o/v/ad95e99c1c024c749bb3eb22c9b4dd95.mp4\"\n                   type=\"video/mp4\">\n </video>",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "image_EDCzgd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Shea_Bajaj_Infinity_Box_1.jpg",
+            "link": "",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "image_K3EtRE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Shea_Bajaj_Infinity_Box_2.jpg",
+            "link": "",
+            "width": "33%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_rCtXJb",
+        "image_EDCzgd",
+        "image_K3EtRE"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_MCWHR3": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_fjBLpN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Shea_Bajaj_Solar_Dragonly_elevation_25.jpg",
+            "link": "",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_qTbQbk": {
+          "type": "liquid",
+          "settings": {
+            "code": "<style>\n video {\n width: 100%;\n height: 360;\n display: block;\n margin: 0 auto;\n }\n </style>\n <video muted autoplay playsinline loop>\n     <source src=\"https://cdn.shopify.com/videos/c/o/v/0396dcb2f214449298cacc8ed9747138.mp4\"\n                   type=\"video/mp4\">\n     <source src=\"https://cdn.shopify.com/videos/c/o/v/0396dcb2f214449298cacc8ed9747138.mp4 \"\n                   type=\"video/mp4\">\n </video>",
+            "width": "66%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_fjBLpN",
+        "liquid_qTbQbk"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_bkByRx",
+    "advanced_content_bH67kx",
+    "rich_text_VzVCHW",
+    "advanced_content_8PTbLM",
+    "rich_text_nGiCgi",
+    "advanced_content_Wnh6Na",
+    "advanced_content_biNYeD",
+    "advanced_content_TPfQGA",
+    "advanced_content_NzDKzG",
+    "advanced_content_9qYBdk",
+    "advanced_content_azgcC7",
+    "advanced_content_Lj3Rxk",
+    "advanced_content_LemrJ6",
+    "advanced_content_bKWFqB",
+    "advanced_content_friqNi",
+    "advanced_content_xyfpxx",
+    "rich_text_GFwtgD",
+    "advanced_content_JFpXPP",
+    "advanced_content_MCWHR3"
+  ]
+}

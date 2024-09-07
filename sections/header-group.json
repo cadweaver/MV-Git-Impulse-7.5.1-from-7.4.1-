@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "header",
   "name": "t:sections.header-group.name",
@@ -10,6 +19,10 @@
           "settings": {
             "desktop_logo_width": 140,
             "mobile_logo_width": 110
+            "logo": "shopify://shop_images/modern_verve_logoText-black_1d01baf9-f822-4c3f-8980-7bfc0ca54ae5.png",
+            "logo-inverted": "shopify://shop_images/modern_verve_logoText-white_5542cf33-150c-4487-b61e-0146f9d3fbf3.png",
+            "desktop_logo_width": 370,
+            "mobile_logo_width": 190
           }
         }
       },
@@ -24,6 +37,17 @@
         "sticky_collection": false,
         "toolbar_menu": "top",
         "toolbar_social": true
+        "hover_menu": true,
+        "mega_menu_images": false,
+        "main_menu_alignment": "center-drawer",
+        "header_style": "normal",
+        "sticky_index": true,
+        "sticky_collection": true,
+        "toolbar_menu": "",
+        "toolbar_social": false,
+        "show_locale_selector": true,
+        "show_currency_selector": true,
+        "show_currency_flags": true
       }
     },
     "announcement": {
@@ -34,6 +58,8 @@
           "settings": {
             "text": "Free shipping",
             "link_text": "On all orders over $100"
+            "link_text": "On all orders over $100",
+            "link": ""
           }
         },
         "announcement-1": {
@@ -41,6 +67,8 @@
           "settings": {
             "text": "Hassle-free returns",
             "link_text": "30-day postage paid returns"
+            "link_text": "30-day postage paid returns",
+            "link": ""
           }
         }
       },
@@ -48,6 +76,7 @@
         "announcement-0",
         "announcement-1"
       ],
+      "disabled": true,
       "settings": {
         "announcement_compact": true
       }
