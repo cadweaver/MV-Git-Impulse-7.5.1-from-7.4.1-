@@ -290,10 +290,6 @@ Arguments
               {%- endif -%}
             {%- endfor -%}
           {%- endif -%}
-
-          {%- if settings.enable_product_reviews and type == 'horizontal' -%}
-            <span class="shopify-product-reviews-badge" data-id="{{ product.id }}"></span>
-          {%- endif -%}
         </div>
       </a>
     </div>
@@ -354,10 +350,6 @@ Arguments
         {%- endif -%}
       {%- endif -%}
     {%- endfor -%}
-  {%- endif -%}
-
-  {%- if settings.enable_product_reviews and type == blank -%}
-    <span class="shopify-product-reviews-badge" data-id="{{ product.id }}"></span>
   {%- endif -%}
 
   {%- if quick_shop_enable and type == blank -%}
