@@ -220,7 +220,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Modern_Verve_Lighting_Ridgewood_Lobby_Spark_4_30_1350r.jpg",
-            "link": "",
+            "link": "shopify:\/\/products\/spark-series-4-30-chandelier",
             "width": "33%",
             "alignment": "center"
           }
