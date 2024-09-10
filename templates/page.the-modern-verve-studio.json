@@ -405,7 +405,7 @@
       ],
       "settings": {
         "full_width": true,
-        "space_around": true,
+        "space_around": false,
         "lazyload_images": true
       }
     },
@@ -560,7 +560,7 @@
       ],
       "settings": {
         "full_width": true,
-        "space_around": true,
+        "space_around": false,
         "lazyload_images": true
       }
     },
@@ -629,7 +629,7 @@
       ],
       "settings": {
         "full_width": true,
-        "space_around": true,
+        "space_around": false,
         "lazyload_images": true
       }
     },
@@ -660,7 +660,7 @@
       ],
       "settings": {
         "full_width": true,
-        "space_around": true,
+        "space_around": false,
         "lazyload_images": true
       }
     }
