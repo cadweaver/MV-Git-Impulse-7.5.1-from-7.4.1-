@@ -229,7 +229,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Modern_Verve_Spark_Chandeleir_4_30B_MZ_BN_27.jpg",
-            "link": "",
+            "link": "shopify:\/\/products\/spark-series-4-30-chandelier",
             "width": "33%",
             "alignment": "center"
           }
