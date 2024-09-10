@@ -248,7 +248,7 @@
             "height": 800,
             "text_size": 100,
             "text_align": "vertical-bottom horizontal-left",
-            "color_accent": "rgba(0,0,0,0)",
+            "color_accent": "#e6e6e6",
             "boxed": false,
             "framed": false
           }
@@ -256,20 +256,20 @@
         "advanced_t3Xiqi": {
           "type": "advanced",
           "settings": {
-            "subheading": "FLUTE SERIES CHANDELIER 3-30",
+            "subheading": "",
             "heading": "",
             "textarea": "",
-            "cta_text1": "",
+            "cta_text1": "FLUTE SERIES CHANDELIER 3-30",
             "cta_link1": "shopify:\/\/products\/flute-series-3-30-chandelier",
             "cta_text2": "",
             "cta_link2": "shopify:\/\/products\/flute-series-3-30-chandelier",
             "image": "shopify:\/\/shop_images\/ModernVerve_Flute3-30Chandelier_CM.jpg",
             "video_url": "",
             "width": "33",
-            "height": 420,
-            "text_size": 120,
+            "height": 800,
+            "text_size": 100,
             "text_align": "vertical-bottom horizontal-left",
-            "color_accent": "rgba(0,0,0,0)",
+            "color_accent": "#f5f5f5",
             "boxed": false,
             "framed": false
           }
