@@ -247,7 +247,7 @@
             "width": "33",
             "height": 800,
             "text_size": 100,
-            "text_align": "vertical-bottom horizontal-left",
+            "text_align": "vertical-bottom horizontal-center",
             "color_accent": "#e6e6e6",
             "boxed": false,
             "framed": false
