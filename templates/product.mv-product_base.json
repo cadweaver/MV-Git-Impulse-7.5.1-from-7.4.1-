@@ -69,6 +69,14 @@
             "page": ""
           }
         },
+        "tab_Y3Xt8B": {
+          "type": "tab",
+          "settings": {
+            "title": "{{ product.metafields.custom.tab_title_downloads.value }}",
+            "content": "",
+            "page": ""
+          }
+        },
         "tab": {
           "type": "tab",
           "settings": {
@@ -99,6 +107,7 @@
         "buy_buttons",
         "description",
         "tab_zRRnC7",
+        "tab_Y3Xt8B",
         "tab",
         "contact",
         "share"
