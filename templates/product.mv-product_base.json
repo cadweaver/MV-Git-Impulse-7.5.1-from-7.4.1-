@@ -55,12 +55,6 @@
             "show_gift_card_recipient": false
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-            "is_tab": false
-          }
-        },
         "tab_zRRnC7": {
           "type": "tab",
           "settings": {
@@ -92,6 +86,12 @@
             "phone": false
           }
         },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
         "share": {
           "type": "share",
           "settings": {
@@ -105,11 +105,11 @@
         "inventory_status",
         "price",
         "buy_buttons",
-        "description",
         "tab_zRRnC7",
         "tab_ppbGF6",
         "tab",
         "contact",
+        "description",
         "share"
       ],
       "settings": {
