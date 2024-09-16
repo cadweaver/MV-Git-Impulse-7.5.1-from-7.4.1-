@@ -208,6 +208,63 @@
         "lazyload_images": true
       }
     },
+    "promo_grid_i7ahbD": {
+      "type": "promo-grid",
+      "blocks": {
+        "advanced_wFgF4L": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "",
+            "heading": "",
+            "textarea": "",
+            "cta_text1": "machine flower",
+            "cta_link1": "shopify:\/\/products\/machine-flower",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/Modern_Verve_Anemone_Machine_Flower_Ellipse.jpg",
+            "video_url": "",
+            "width": "33",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-bottom horizontal-center",
+            "color_accent": "#e8e8e1",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "advanced_qPzPaN": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Limited time",
+            "heading": "Announce your promotion",
+            "textarea": "Include the smaller details of your promotion in text below the title.",
+            "cta_text1": "Shop This",
+            "cta_link1": "",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "advanced_wFgF4L",
+        "advanced_qPzPaN"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": true,
+        "lazyload_images": true
+      }
+    },
     "promo_grid_mWfCJi": {
       "type": "promo-grid",
       "blocks": {
@@ -406,6 +463,7 @@
     "featured-collection2",
     "promo_grid_GGDLhF",
     "promo-grid2",
+    "promo_grid_i7ahbD",
     "promo_grid_mWfCJi",
     "featured-collection3",
     "featured-collections",
