@@ -258,7 +258,7 @@
         "advanced_qPzPaN"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "gutter_size": 20,
         "space_above": false,
         "space_below": true,
