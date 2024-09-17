@@ -203,6 +203,9 @@
         "advanced",
         "advanced_EbrjgY"
       ],
+      "custom_css": [
+        ".background-media-text__video video {object-fit: none !important;}"
+      ],
       "settings": {
         "full_width": true,
         "gutter_size": 10,
