@@ -34,7 +34,7 @@
     "color_image_overlay": "#000000",
     "color_image_overlay_opacity": 0,
     "color_image_overlay_text_shadow": 24,
-    "type_header_font_family": "basic_commercial_n7",
+    "type_header_font_family": "sans-serif",
     "type_header_spacing": "25",
     "type_header_base_size": 38,
     "type_header_line_height": 1,
