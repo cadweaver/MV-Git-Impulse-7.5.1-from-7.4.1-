@@ -54,11 +54,10 @@
             "alignment": "center"
           }
         },
-        "image_hBiWPd": {
-          "type": "image",
+        "liquid_EAe83g": {
+          "type": "liquid",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Modern_Verve_Studio_4.jpg",
-            "link": "shopify:\/\/collections\/about",
+            "code": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/6289\/3139\/files\/Modern_Verve_Studio_4.jpg?v=1717516019\" style=\"width:400px;height:390px;\">\n\n<center> the modern verve studio",
             "width": "33%",
             "alignment": "center"
           }
@@ -74,7 +73,7 @@
       },
       "block_order": [
         "liquid_VLBbwB",
-        "image_hBiWPd",
+        "liquid_EAe83g",
         "liquid_p76RVm"
       ],
       "settings": {
