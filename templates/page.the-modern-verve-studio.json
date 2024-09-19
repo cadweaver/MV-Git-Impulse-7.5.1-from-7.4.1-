@@ -121,20 +121,18 @@
             "alignment": "center"
           }
         },
-        "image_LxYMhJ": {
-          "type": "image",
+        "liquid_KFRPaC": {
+          "type": "liquid",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Shea_Bajaj_Spaceship_Lamp_drawing_1_-_1080.jpg",
-            "link": "",
+            "code": "<a href=\" https:\/\/f24a1b-78.myshopify.com\/collections\/about \">\n  <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/6289\/3139\/files\/Shea_Bajaj_Spaceship_Lamp_drawing_1_-_1080.jpg?v=1717502824&width=720%\"> \n<\/a>\n\n<center> space ship lamp design drawing",
             "width": "33%",
             "alignment": "center"
           }
         },
-        "image_hjUTYb": {
-          "type": "image",
+        "liquid_C7fnBF": {
+          "type": "liquid",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Shea_Bajaj_Spaceship_Light_1080.jpg",
-            "link": "",
+            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
             "width": "33%",
             "alignment": "center"
           }
@@ -142,8 +140,8 @@
       },
       "block_order": [
         "liquid_Rk6Ugx",
-        "image_LxYMhJ",
-        "image_hjUTYb"
+        "liquid_KFRPaC",
+        "liquid_C7fnBF"
       ],
       "settings": {
         "full_width": true,
