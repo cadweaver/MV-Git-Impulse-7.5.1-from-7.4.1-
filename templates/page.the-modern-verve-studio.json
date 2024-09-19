@@ -124,7 +124,7 @@
         "liquid_KFRPaC": {
           "type": "liquid",
           "settings": {
-            "code": "<a href=\" https:\/\/f24a1b-78.myshopify.com\/collections\/about \">\n  <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/6289\/3139\/files\/Shea_Bajaj_Spaceship_Lamp_drawing_rec_-_1080.jpg?v=1726770073&width=720%\"> \n<\/a>",
+            "code": "<a href=\" https:\/\/f24a1b-78.myshopify.com\/collections\/about \">\n  <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/6289\/3139\/files\/Shea_Bajaj_Spaceship_Lamp_drawing_rec_-_1080.jpg?v=1726770073&width=720%\"> \n<\/a>\n\n<center> space ship lamp design drawing",
             "width": "33%",
             "alignment": "center"
           }
