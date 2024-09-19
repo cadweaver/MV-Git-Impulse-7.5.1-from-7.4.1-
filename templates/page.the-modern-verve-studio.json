@@ -179,11 +179,10 @@
             "alignment": "center"
           }
         },
-        "image_tgbDYK": {
-          "type": "image",
+        "liquid_YLEKxq": {
+          "type": "liquid",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Modern_Verve_Flute_Series_3_30_chandelier_Custom_PN_sq2.jpg",
-            "link": "shopify:\/\/products\/flute-series-3-30-chandelier",
+            "code": "<a href=\" https:\/\/f24a1b-78.myshopify.com\/products\/flute-series-3-30-chandelier\">\n  <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/6289\/3139\/files\/Modern_Verve_Flute_Series_3_30_chandelier_Custom_PN_sq2.jpg?v=1725456338&width=720%\"> \n<\/a>\n\n<center> flute 3-30 chandelier",
             "width": "33%",
             "alignment": "center"
           }
@@ -199,7 +198,7 @@
       },
       "block_order": [
         "liquid_NhqgDW",
-        "image_tgbDYK",
+        "liquid_YLEKxq",
         "liquid_DcLkYD"
       ],
       "settings": {
