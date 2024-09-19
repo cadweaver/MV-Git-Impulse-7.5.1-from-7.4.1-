@@ -231,7 +231,7 @@
         "liquid_pzg4Jb": {
           "type": "liquid",
           "settings": {
-            "code": "<a href=\"https:\/\/f24a1b-78.myshopify.com\/products\/spark-series-4-30-chandelier\">\n  <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/6289\/3139\/files\/ModernVerve_Sparkchandelier4-30M.jpg?v=1717367287&width=720%\"> \n<\/a>\n\n<center> spark 4-30b chandelier",
+            "code": "<a href=\"https:\/\/f24a1b-78.myshopify.com\/products\/spark-series-4-30-chandelier\">\n  <img src=\"\nhttps:\/\/cdn.shopify.com\/s\/files\/1\/0596\/6289\/3139\/files\/Modern_Verve_Lighting_Ridgewood_Lobby_Spark_4_30_1350r.jpg?v=1717522935&width=720%\"> \n<\/a>\n\n<center> spark 4-30b chandelier",
             "width": "33%",
             "alignment": "center"
           }
