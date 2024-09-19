@@ -337,7 +337,7 @@
         "liquid_Uh4jwy": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "code": "<a href=\"https:\/\/f24a1b-78.myshopify.com\/products\/wall-boom-series-aria-4m-58\">\n  <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/6289\/3139\/files\/modern_verve_Wall_Boom_Aria_4M_YT_112_sq.jpg?v=1717518979&width=720%\"> \n<\/a>\n\n<center> wall boom armature + aria 4m pendant",
             "width": "33%",
             "alignment": "center"
           }
