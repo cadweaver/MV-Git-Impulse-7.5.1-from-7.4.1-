@@ -334,11 +334,10 @@
             "alignment": "center"
           }
         },
-        "image_FLXATm": {
-          "type": "image",
+        "liquid_Uh4jwy": {
+          "type": "liquid",
           "settings": {
-            "image": "shopify:\/\/shop_images\/modern_verve_Wall_Boom_Aria_4M_YT_112_sq.jpg",
-            "link": "shopify:\/\/products\/wall-boom-series-aria-4m-58",
+            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
             "width": "33%",
             "alignment": "center"
           }
@@ -347,7 +346,7 @@
       "block_order": [
         "liquid_gzMgzW",
         "liquid_F7mJ3y",
-        "image_FLXATm"
+        "liquid_Uh4jwy"
       ],
       "settings": {
         "full_width": true,
