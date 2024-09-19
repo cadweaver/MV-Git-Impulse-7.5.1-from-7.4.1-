@@ -190,7 +190,7 @@
         "liquid_DcLkYD": {
           "type": "liquid",
           "settings": {
-            "code": "<style>\n video {\n width: 100%;\n height: 360;\n display: block;\n margin: 0 auto;\n }\n <\/style>\n <video muted autoplay playsinline loop>\n     <source src=\" https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/07f6dac220c645739e177d5b8282ff54.mp4\"\n                   type=\"video\/mp4\">\n     <source src=\" https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/07f6dac220c645739e177d5b8282ff54.mp4\"\n                   type=\"video\/mp4\">\n <\/video>",
+            "code": "<a href=\" https:\/\/f24a1b-78.myshopify.com\/products\/flute-series-3-30-chandelier \">\n<style>\n video {\n width: 100%;\n height: 100%;\n display: block;\n margin: 0 auto;\n }\n <\/style>\n <video muted autoplay playsinline loop>\n     <source src=\" https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/07f6dac220c645739e177d5b8282ff54.mp4\"\n                   type=\"video\/mp4\">\n     <source src=\" https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/07f6dac220c645739e177d5b8282ff54.mp4\"\n                   type=\"video\/mp4\">\n <\/video>\n<\/a>\n\n<center> flute 3-30 chandelier",
             "width": "33%",
             "alignment": "center"
           }
