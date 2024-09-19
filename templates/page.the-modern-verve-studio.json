@@ -257,11 +257,10 @@
             "alignment": "center"
           }
         },
-        "image_XeAKPg": {
-          "type": "image",
+        "liquid_wgYtLj": {
+          "type": "liquid",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_Modern_Verve_Aria_bedroom_16_insta.jpg",
-            "link": "shopify:\/\/products\/aria-4m-pendant",
+            "code": "<a href=\"https:\/\/f24a1b-78.myshopify.com\/products\/aria-4m-pendant\">\n  <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/6289\/3139\/files\/1_Modern_Verve_Aria_bedroom_16_insta.jpg?v=1725456523&width=720%\"> \n<\/a>\n\n<center> aria 3m pendant",
             "width": "33%",
             "alignment": "center"
           }
@@ -278,7 +277,7 @@
       },
       "block_order": [
         "liquid_P98zrV",
-        "image_XeAKPg",
+        "liquid_wgYtLj",
         "image_WpPhND"
       ],
       "settings": {
