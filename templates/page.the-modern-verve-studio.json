@@ -318,11 +318,10 @@
     "advanced_content_9qYBdk": {
       "type": "advanced-content",
       "blocks": {
-        "image_e4HgNA": {
-          "type": "image",
+        "liquid_gzMgzW": {
+          "type": "liquid",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Modern_Verve___Aria_Wall_Light_Seattle_sq_716cef47-8b34-4568-a668-9e7ac0a81d7c.jpg",
-            "link": "shopify:\/\/products\/flute-series-3-30-chandelier-copy",
+            "code": "<a href=\"https:\/\/f24a1b-78.myshopify.com\/products\/wall-boom-series-aria-4m-58\">\n  <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/6289\/3139\/files\/Modern_Verve___Aria_Wall_Light_Seattle_sq_716cef47-8b34-4568-a668-9e7ac0a81d7c.jpg?v=1725459864&width=720%\"> \n<\/a>\n\n<center> wall boom armature + aria 4m pendant",
             "width": "33%",
             "alignment": "center"
           }
@@ -346,7 +345,7 @@
         }
       },
       "block_order": [
-        "image_e4HgNA",
+        "liquid_gzMgzW",
         "liquid_F7mJ3y",
         "image_FLXATm"
       ],
