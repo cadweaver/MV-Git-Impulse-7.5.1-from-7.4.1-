@@ -132,7 +132,7 @@
         "liquid_C7fnBF": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "code": "<a href=\" https:\/\/f24a1b-78.myshopify.com\/collections\/about \">\n  <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/6289\/3139\/files\/Shea_Bajaj_Spaceship_Light_1080.jpg?v=1717462508&width=720%\"> \n<\/a>\n\n<center> space ship lamp",
             "width": "33%",
             "alignment": "center"
           }
