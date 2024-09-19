@@ -288,11 +288,10 @@
     "advanced_content_NzDKzG": {
       "type": "advanced-content",
       "blocks": {
-        "image_UKAN3J": {
-          "type": "image",
+        "liquid_MQacUg": {
+          "type": "liquid",
           "settings": {
-            "image": "shopify:\/\/shop_images\/modern_verve_aria_branching_mc_bby_asq_8b46ff3d-179c-453e-bbb7-28d497ed15e3.jpg",
-            "link": "",
+            "code": "<a href=\"https:\/\/f24a1b-78.myshopify.com\/products\/aria-4m-pendant\">\n  <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/6289\/3139\/files\/modern_verve_aria_branching_mc_bby_a_rec.jpg?v=1718487003&width=720%\"> \n<\/a>\n\n<center> aria branching chandelier",
             "width": "33%",
             "alignment": "center"
           }
@@ -307,7 +306,7 @@
         }
       },
       "block_order": [
-        "image_UKAN3J",
+        "liquid_MQacUg",
         "liquid_rJ4eYT"
       ],
       "settings": {
