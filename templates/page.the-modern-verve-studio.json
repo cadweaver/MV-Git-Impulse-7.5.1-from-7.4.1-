@@ -329,7 +329,7 @@
         "liquid_F7mJ3y": {
           "type": "liquid",
           "settings": {
-            "code": "<style>\n video {\n width: 100%;\n height: 360;\n display: block;\n margin: 0 auto;\n }\n <\/style>\n <video muted autoplay playsinline loop>\n     <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c0babd9bbe4c4125ae7227d8ccfc0a50.mp4\" type=\"video\/mp4\">\n     <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c0babd9bbe4c4125ae7227d8ccfc0a50.mp4\" type=\"video\/mp4\"\n                   type=\"video\/mp4\">\n <\/video>",
+            "code": "<a href=\"https:\/\/f24a1b-78.myshopify.com\/products\/wall-boom-series-aria-4m-58\">\n<style>\n video {\n width: 100%;\n height: 100%;\n display: block;\n margin: 0 auto;\n }\n <\/style>\n <video muted autoplay playsinline loop>\n     <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c0babd9bbe4c4125ae7227d8ccfc0a50.mp4\" type=\"video\/mp4\">\n     <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c0babd9bbe4c4125ae7227d8ccfc0a50.mp4\" type=\"video\/mp4\"\n                   type=\"video\/mp4\">\n <\/video>\n<\/a>\n\n<center> wall boom armature + aria 4m pendant",
             "width": "33%",
             "alignment": "center"
           }
