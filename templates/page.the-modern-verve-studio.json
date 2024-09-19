@@ -299,7 +299,7 @@
         "liquid_rJ4eYT": {
           "type": "liquid",
           "settings": {
-            "code": "<style>\n video {\n width: 100%;\n height: 360;\n display: block;\n margin: 0 auto;\n }\n <\/style>\n <video muted autoplay playsinline loop>\n     <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/1f942c5fdbae416a8468d2c060ee8380.mp4\"\n                   type=\"video\/mp4\">\n     <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/1f942c5fdbae416a8468d2c060ee8380.mp4\"\n                   type=\"video\/mp4\">\n <\/video>",
+            "code": "<a href=\"https:\/\/f24a1b-78.myshopify.com\/products\/machine-flower-ellipse\">\n<style>\n video {\n width: 100%;\n height: 360;\n display: block;\n margin: 0 auto;\n }\n <\/style>\n <video muted autoplay playsinline loop>\n     <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/1f942c5fdbae416a8468d2c060ee8380.mp4\"\n                   type=\"video\/mp4\">\n     <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/1f942c5fdbae416a8468d2c060ee8380.mp4\"\n                   type=\"video\/mp4\">\n <\/video>\n<\/a>\n\n<center> machine flower mechanical chandelier",
             "width": "66%",
             "alignment": "center"
           }
