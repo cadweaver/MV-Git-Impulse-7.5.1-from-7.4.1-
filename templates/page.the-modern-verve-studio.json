@@ -513,11 +513,10 @@
             "alignment": "center"
           }
         },
-        "image_DgrAAW": {
-          "type": "image",
+        "liquid_Vg79Wt": {
+          "type": "liquid",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Modern_Verve_Spark_3_30_Chandelier_SJL_1_2232f9d1-1026-4500-a098-cef7c29ba0d1.jpg",
-            "link": "",
+            "code": "<a href=\"https:\/\/f24a1b-78.myshopify.com\/collections\/ceiling-lights\/products\/spark-series-2-20-chandelier-copy\">\n  <img src=\" https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/6289\/3139\/files\/Modern_Verve_Spark_3_30_Chandelier_SJL_1_2232f9d1-1026-4500-a098-cef7c29ba0d1.jpg?v=1725465191&width=720%\"> \n<\/a>\n\n<center> spark series 2-20 chandelier",
             "width": "33%",
             "alignment": "center"
           }
@@ -534,7 +533,7 @@
       },
       "block_order": [
         "liquid_xN6maR",
-        "image_DgrAAW",
+        "liquid_Vg79Wt",
         "image_rmxkDb"
       ],
       "settings": {
