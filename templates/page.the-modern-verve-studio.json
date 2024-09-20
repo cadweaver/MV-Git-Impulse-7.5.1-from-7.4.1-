@@ -399,7 +399,7 @@
         "liquid_NVmQxU": {
           "type": "liquid",
           "settings": {
-            "code": "8.5a)  Image – Flute 2-20 SF proj 1080\n<a href=\"https:\/\/f24a1b-78.myshopify.com\/collections\/ceiling-lights\/products\/flute-series-3-30-chandelier-copy\">\n  <img src=\" https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/6289\/3139\/files\/ModernVerve_FluteSeries2-20Chandelier.jpg?v=1717436201&width=720%\"> \n<\/a>\n\n<center> flute series chandelier 2-20",
+            "code": "<a href=\"https:\/\/f24a1b-78.myshopify.com\/collections\/ceiling-lights\/products\/flute-series-3-30-chandelier-copy\">\n  <img src=\" https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/6289\/3139\/files\/ModernVerve_FluteSeries2-20Chandelier.jpg?v=1717436201&width=720%\"> \n<\/a>\n\n<center> flute series chandelier 2-20",
             "width": "50%",
             "alignment": "center"
           }
@@ -407,7 +407,7 @@
         "liquid_hLrgry": {
           "type": "liquid",
           "settings": {
-            "code": "<a href=\"https:\/\/f24a1b-78.myshopify.com\/collections\/ceiling-lights\/products\/flute-series-3-30-chandelier-copy\">\n  <img src=\" https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/6289\/3139\/files\/Modern_Verve_Flute_3-30_2id1350.jpg?v=1717522959&width=720%\"> \n<\/a>\n\n<center> flute series chandelier 3-30",
+            "code": "<a href=\" https:\/\/f24a1b-78.myshopify.com\/products\/spark-series-3-30-chandelier\">\n  <img src=\" https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/6289\/3139\/files\/Modern_Verve_Spark_Chandelier_3-30E_brass_Detal.jpg?v=1718820302\n&width=720%\"> \n<\/a>\n\n<center> spark series chandelier 3-30e",
             "width": "50%",
             "alignment": "center"
           }
