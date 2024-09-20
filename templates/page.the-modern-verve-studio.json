@@ -365,11 +365,10 @@
             "alignment": "center"
           }
         },
-        "image_kCbA6m": {
-          "type": "image",
+        "liquid_ePwBGX": {
+          "type": "liquid",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_Modern_Verve_Reed_Series_Pendants_3_M_Nickel_horizontal_4c8af50e-958b-41ca-9323-a178199eddf6.jpg",
-            "link": "",
+            "code": "<a href=\"https:\/\/f24a1b-78.myshopify.com\/products\/wall-boom-series-aria-4m-58\">\n  <img src=\" https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/6289\/3139\/files\/2_Modern_Verve_Reed_Series_Pendants_3_M_Nickel_X_61b2e91f-e2b1-4d0d-bb79-2da34be32f80.jpg?v=1725462719 &width=720%\"> \n<\/a>\n\n<center> reed series pendants",
             "width": "33%",
             "alignment": "center"
           }
@@ -386,7 +385,7 @@
       },
       "block_order": [
         "liquid_7WWzjK",
-        "image_kCbA6m",
+        "liquid_ePwBGX",
         "image_QqJVrJ"
       ],
       "settings": {
