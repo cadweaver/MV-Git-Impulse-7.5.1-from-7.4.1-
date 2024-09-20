@@ -396,11 +396,10 @@
     "advanced_content_LemrJ6": {
       "type": "advanced-content",
       "blocks": {
-        "image_fWwTmC": {
-          "type": "image",
+        "liquid_XKxRFW": {
+          "type": "liquid",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Modern_Verve_Balance_Series_48-3_LED_fixture_grey_pc_484bef74-1551-47c5-be9f-3b61c15727b3.jpg",
-            "link": "",
+            "code": "<a href=\"https:\/\/f24a1b-78.myshopify.com\/collections\/ceiling-lights\/products\/balance-series-48-3-fixture\">\n  <img src=\" https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/6289\/3139\/files\/Modern_Verve_Balance_Series_48-3_LED_fixture_grey_pc.jpg?v=1717523135&width=720%\"> \n<\/a>\n\n<center> balance series fixture",
             "width": "33%",
             "alignment": "center"
           }
@@ -425,7 +424,7 @@
         }
       },
       "block_order": [
-        "image_fWwTmC",
+        "liquid_XKxRFW",
         "image_K7bzWX",
         "image_CiCQf7"
       ],
