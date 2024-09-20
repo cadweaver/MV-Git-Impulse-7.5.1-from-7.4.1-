@@ -521,11 +521,10 @@
             "alignment": "center"
           }
         },
-        "image_rmxkDb": {
-          "type": "image",
+        "liquid_z7WF9D": {
+          "type": "liquid",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Modern_Verve_Flute_Series_Endless_Wand_Fixture_FLEW2_b_-_Copy_30d4f457-a79d-46e5-a24f-99e17cd400ac.jpg",
-            "link": "",
+            "code": "<a href=\"https:\/\/f24a1b-78.myshopify.com\/collections\/ceiling-lights\/products\/spark-series-2-20-chandelier-copy\">\n  <img src=\" https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/6289\/3139\/files\/Modern_Verve_Flute_Series_Endless_Wand_Fixture_FLEW2_b_-_Copy_30d4f457-a79d-46e5-a24f-99e17cd400ac.jpg?v=1725465106&width=720%\"> \n<\/a>\n\n<center> endless horizontal wand ew2",
             "width": "33%",
             "alignment": "center"
           }
@@ -534,7 +533,7 @@
       "block_order": [
         "liquid_xN6maR",
         "liquid_Vg79Wt",
-        "image_rmxkDb"
+        "liquid_z7WF9D"
       ],
       "settings": {
         "full_width": true,
