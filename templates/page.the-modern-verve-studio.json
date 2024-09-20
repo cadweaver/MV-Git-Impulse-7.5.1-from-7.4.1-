@@ -482,11 +482,10 @@
             "alignment": "center"
           }
         },
-        "image_pXwcfh": {
-          "type": "image",
+        "liquid_HeJ4Qq": {
+          "type": "liquid",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Modern_Verve_Flute_Series_Endless_Horizontal_Wand_LED_Fixture_H-1_inst_3408702a-c05d-4fe8-b224-f4b806270c74.jpg",
-            "link": "",
+            "code": "<a href=\"https:\/\/f24a1b-78.myshopify.com\/collections\/ceiling-lights\/products\/flute-series-3-30-chandelier\">\n  <img src=\" https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/6289\/3139\/files\/Modern_Verve_Flute_Series_Endless_Horizontal_Wand_LED_Fixture_H-1_inst_3408702a-c05d-4fe8-b224-f4b806270c74.jpg?v=1725464580&width=720%\"> \n<\/a>\n\n<center> flute series endless wand h-1 fixture",
             "width": "33%",
             "alignment": "center"
           }
@@ -495,7 +494,7 @@
       "block_order": [
         "liquid_mCTebk",
         "liquid_FCmhbk",
-        "image_pXwcfh"
+        "liquid_HeJ4Qq"
       ],
       "settings": {
         "full_width": true,
