@@ -360,7 +360,7 @@
         "liquid_7WWzjK": {
           "type": "liquid",
           "settings": {
-            "code": "<style>\n video {\n width: 100%;\n height: 360;\n display: block;\n margin: 0 auto;\n }\n <\/style>\n <video muted autoplay playsinline loop>\n     <source src=\" https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/15bca6697b0441aeba386724bf9d2cb2.mp4\"\n                   type=\"video\/mp4\">\n     <source src=\" https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/15bca6697b0441aeba386724bf9d2cb2.mp4\"\n                   type=\"video\/mp4\">\n <\/video>",
+            "code": "<a href=\"https:\/\/f24a1b-78.myshopify.com\/products\/wall-boom-series-aria-4m-58\">\n<style>\n video {\n width: 100%;\n height: 100%;\n display: block;\n margin: 0 auto;\n }\n <\/style>\n <video muted autoplay playsinline loop>\n     <source src=\" https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/15bca6697b0441aeba386724bf9d2cb2.mp4\"\n                   type=\"video\/mp4\">\n     <source src=\" https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/15bca6697b0441aeba386724bf9d2cb2.mp4\"\n                   type=\"video\/mp4\">\n <\/video>\n<\/a>\n\n<center> reed series pendants",
             "width": "33%",
             "alignment": "center"
           }
