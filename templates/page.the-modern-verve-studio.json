@@ -505,11 +505,10 @@
     "advanced_content_xyfpxx": {
       "type": "advanced-content",
       "blocks": {
-        "image_fXWNXJ": {
-          "type": "image",
+        "liquid_xN6maR": {
+          "type": "liquid",
           "settings": {
-            "image": "shopify:\/\/shop_images\/modern_verve_Flute_Series_2_20_Chandelier_YY_1327_c082c06c-8717-4e2e-85e6-ea7e0b911b31.jpg",
-            "link": "",
+            "code": "<a href=\"https:\/\/f24a1b-78.myshopify.com\/collections\/ceiling-lights\/products\/flute-series-3-30-chandelier-copy\">\n  <img src=\" https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/6289\/3139\/files\/modern_verve_Flute_Series_2_20_Chandelier_YY_1327_c082c06c-8717-4e2e-85e6-ea7e0b911b31.jpg?v=1725465136&width=720%\"> \n<\/a>\n\n<center> flute series 2-20 chandelier",
             "width": "33%",
             "alignment": "center"
           }
@@ -534,7 +533,7 @@
         }
       },
       "block_order": [
-        "image_fXWNXJ",
+        "liquid_xN6maR",
         "image_DgrAAW",
         "image_rmxkDb"
       ],
