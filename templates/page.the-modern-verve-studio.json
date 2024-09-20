@@ -574,7 +574,6 @@
       "blocks": {
         "liquid_rCtXJb": {
           "type": "liquid",
-          "disabled": true,
           "settings": {
             "code": "<style>\n video {\n width: 100%;\n height: 360;\n display: block;\n margin: 0 auto;\n }\n <\/style>\n <video muted autoplay playsinline loop>\n     <source src=\" https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/ad95e99c1c024c749bb3eb22c9b4dd95.mp4\"\n                   type=\"video\/mp4\">\n     <source src=\" https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/ad95e99c1c024c749bb3eb22c9b4dd95.mp4\"\n                   type=\"video\/mp4\">\n <\/video>",
             "width": "33%",
@@ -586,7 +585,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Shea_Bajaj_Infinity_Box_1.jpg",
             "link": "",
-            "width": "50%",
+            "width": "33%",
             "alignment": "center"
           }
         },
@@ -595,7 +594,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Shea_Bajaj_Infinity_Box_2.jpg",
             "link": "",
-            "width": "50%",
+            "width": "33%",
             "alignment": "center"
           }
         }
