@@ -474,11 +474,10 @@
             "alignment": "center"
           }
         },
-        "image_cdGn6V": {
-          "type": "image",
+        "liquid_FCmhbk": {
+          "type": "liquid",
           "settings": {
-            "image": "shopify:\/\/shop_images\/MLJacobson_Modern_Verve_Custom_Flute_Series_Chandelier_4-30_LED_Brushed_Brass_1_-_Copy.jpg",
-            "link": "",
+            "code": "<a href=\"https:\/\/f24a1b-78.myshopify.com\/collections\/ceiling-lights\/products\/flute-series-3-30-chandelier\">\n  <img src=\" https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/6289\/3139\/files\/MLJacobson_Modern_Verve_Custom_Flute_Series_Chandelier_4-30_LED_Brushed_Brass_1_-_Copy.jpg?v=1725464958&width=720%\"> \n<\/a>\n\n<center> flute series 4—30 chandelier",
             "width": "33%",
             "alignment": "center"
           }
@@ -495,7 +494,7 @@
       },
       "block_order": [
         "liquid_mCTebk",
-        "image_cdGn6V",
+        "liquid_FCmhbk",
         "image_pXwcfh"
       ],
       "settings": {
