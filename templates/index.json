@@ -19,7 +19,7 @@
         "link": "",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-bottom horizontal-left",
-        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/980289b56f404447b3c80b3da3f4d3fe.mp4",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/980289b56f404447b3c80b3da3f4d3fe.mp4",
         "overlay_opacity": 0,
         "section_height": "650px",
         "mobile_height": "auto"
@@ -35,14 +35,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify:\/\/products\/balance-series-48-3-fixture",
+            "link": "shopify://products/balance-series-48-3-fixture",
             "link_text": "balance light",
-            "link_2": "shopify:\/\/products\/balance-series-48-3-fixture",
+            "link_2": "shopify://products/balance-series-48-3-fixture",
             "link_text_2": "",
             "color_accent": "#000000",
             "text_align": "vertical-bottom horizontal-center",
-            "image": "shopify:\/\/shop_images\/Modern_Verve_Lighting_Balance_48_3_fixture_3_Vetri_Light_rec_hero_ebda0f88-fda0-4175-a672-17a21c0073c0.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Modern_Verve_Lighting_Balance_48_3_fixture_3_Vetri_Light_2023_Show.jpg",
+            "image": "shopify://shop_images/Modern_Verve_Lighting_Balance_48_3_fixture_3_Vetri_Light_rec_hero_ebda0f88-fda0-4175-a672-17a21c0073c0.jpg",
+            "image_mobile": "shopify://shop_images/Modern_Verve_Lighting_Balance_48_3_fixture_3_Vetri_Light_2023_Show.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -54,14 +54,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify:\/\/products\/aria-4m-pendant",
+            "link": "shopify://products/aria-4m-pendant",
             "link_text": "aria pendant",
-            "link_2": "shopify:\/\/collections\/all",
+            "link_2": "shopify://collections/all",
             "link_text_2": "",
             "color_accent": "#000000",
             "text_align": "vertical-bottom horizontal-center",
-            "image": "shopify:\/\/shop_images\/Modern_Verve_Lighting_Vetri_Gallery_Showing_3_0bf57e97-4f80-4968-a8a1-924424483ec1.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Modern_Verve_Lighting_Aria_multisq_3.jpg",
+            "image": "shopify://shop_images/Modern_Verve_Lighting_Vetri_Gallery_Showing_3_0bf57e97-4f80-4968-a8a1-924424483ec1.jpg",
+            "image_mobile": "shopify://shop_images/Modern_Verve_Lighting_Aria_multisq_3.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -95,7 +95,7 @@
           "disabled": true,
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
@@ -163,7 +163,7 @@
       ],
       "settings": {
         "title": "",
-        "divider": false,
+        "divider": true,
         "per_row": 3,
         "enable_gutter": true
       }
@@ -182,7 +182,7 @@
           "disabled": true,
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
@@ -207,7 +207,7 @@
             "heading": "Spark Series",
             "textarea": "",
             "cta_text1": "",
-            "cta_link1": "shopify:\/\/collections\/spark-series",
+            "cta_link1": "shopify://collections/spark-series",
             "cta_text2": "",
             "cta_link2": "",
             "video_url": "",
@@ -227,7 +227,7 @@
             "heading": "Announce your promotion",
             "textarea": "Include the smaller details of your promotion in text below the title.",
             "cta_text1": "Shop This",
-            "cta_link1": "shopify:\/\/collections\/all",
+            "cta_link1": "shopify://collections/all",
             "cta_text2": "Shop All",
             "cta_link2": "",
             "video_url": "",
@@ -260,9 +260,9 @@
       "settings": {
         "subtitle": "Impressive",
         "title": "Large image with text box",
-        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
+        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
         "button_label": "",
-        "button_link": "shopify:\/\/collections\/all",
+        "button_link": "shopify://collections/all",
         "layout": "left",
         "height": 750,
         "framed": false,
