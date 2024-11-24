@@ -91,8 +91,8 @@
           "type": "custom",
           "settings": {
             "show_footer_title": true,
-            "title": "modern verve",
-            "text": "<p>2909 16th Ave. S.</p><p>Seattle, Washington 98144</p>",
+            "title": "",
+            "text": "<p>MODERN VERVE</p><p>2909 16th Ave. S.</p><p>Seattle, Washington 98144</p>",
             "container_width": 23
           }
         },
