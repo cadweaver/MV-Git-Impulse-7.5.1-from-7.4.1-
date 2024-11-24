@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "color_body_bg": "#ffffff",
@@ -46,7 +46,7 @@
     "type_base_line_height": 1.6,
     "type_body_align_text": false,
     "type_navigation_style": "body",
-    "type_navigation_size": 18,
+    "type_navigation_size": 22,
     "type_navigation_capitalize": false,
     "type_product_style": "heading",
     "type_product_capitalize": false,
@@ -94,9 +94,7 @@
         }
       }
     },
-    "content_for_index": [
-
-    ]
+    "content_for_index": []
   },
   "presets": {
     "Modern": {
@@ -485,8 +483,7 @@
           "blocks": {
             "1524768779513": {
               "type": "logo",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
@@ -506,8 +503,7 @@
           "blocks": {
             "1494292487693": {
               "type": "newsletter",
-              "settings": {
-              }
+              "settings": {}
             },
             "1526406521795": {
               "type": "menu",
@@ -534,8 +530,7 @@
         },
         "newsletter-popup": {
           "type": "newsletter-popup",
-          "settings": {
-          }
+          "settings": {}
         },
         "collection-header": {
           "type": "collection-header",
