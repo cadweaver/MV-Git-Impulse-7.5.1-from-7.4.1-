@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "footer",
   "name": "t:sections.footer-group.name",
@@ -11,7 +20,7 @@
             "enable_image": true,
             "image_mask": "none",
             "title": "Site-wide promotion",
-            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
             "button_label": "Optional button",
             "button_link": ""
           }
@@ -22,7 +31,7 @@
             "enable_image": true,
             "image_mask": "none",
             "title": "Site-wide promotion",
-            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
             "button_label": "Optional button",
             "button_link": ""
           }
@@ -33,7 +42,7 @@
             "enable_image": true,
             "image_mask": "none",
             "title": "Site-wide promotion",
-            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
             "button_label": "Optional button",
             "button_link": ""
           }
@@ -57,8 +66,8 @@
           "settings": {
             "show_footer_title": false,
             "title": "",
-            "text": "<p>Sign up here for our newsletter.<\/p>",
-            "container_width": 33
+            "text": "<p>Sign up here for our newsletter.</p>",
+            "container_width": 31
           }
         },
         "menu_ckeMdJ": {
@@ -66,7 +75,7 @@
           "settings": {
             "show_footer_title": false,
             "menu": "phone",
-            "container_width": 33
+            "container_width": 23
           }
         },
         "menu_xa47f3": {
@@ -78,13 +87,22 @@
             "container_width": 25
           }
         },
+        "custom_EJgwQg": {
+          "type": "custom",
+          "settings": {
+            "show_footer_title": true,
+            "title": "modern verve",
+            "text": "<p>2909 16th Ave. S.</p><p>Seattle, Washington 98144</p>",
+            "container_width": 23
+          }
+        },
         "custom_F6C8Qx": {
           "type": "custom",
           "settings": {
             "show_footer_title": false,
             "title": "",
-            "text": "<p><a href=\"https:\/\/www.instagram.com\/modern.verve\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/modern.verve\/\">Instagram<\/a><\/p><p><\/p>",
-            "container_width": 33
+            "text": "<p><a href=\"https://www.instagram.com/modern.verve/\" target=\"_blank\" title=\"https://www.instagram.com/modern.verve/\">Instagram</a></p><p></p>",
+            "container_width": 23
           }
         }
       },
@@ -92,6 +110,7 @@
         "footer2",
         "menu_ckeMdJ",
         "menu_xa47f3",
+        "custom_EJgwQg",
         "custom_F6C8Qx"
       ],
       "settings": {
