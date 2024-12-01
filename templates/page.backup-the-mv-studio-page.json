@@ -76,7 +76,7 @@
         "liquid_p76RVm"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "space_around": true,
         "lazyload_images": true
       }
@@ -143,7 +143,7 @@
         "liquid_C7fnBF"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "space_around": true,
         "lazyload_images": true
       }
@@ -201,7 +201,7 @@
         "liquid_DcLkYD"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "space_around": false,
         "lazyload_images": true
       }
@@ -240,7 +240,7 @@
         "liquid_pzg4Jb"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "space_around": false,
         "lazyload_images": true
       }
@@ -279,7 +279,7 @@
         "liquid_3E4dpX"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "space_around": false,
         "lazyload_images": true
       }
@@ -309,7 +309,7 @@
         "liquid_rJ4eYT"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "space_around": false,
         "lazyload_images": true
       }
@@ -348,7 +348,7 @@
         "liquid_Uh4jwy"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "space_around": false,
         "lazyload_images": true
       }
@@ -387,7 +387,7 @@
         "liquid_gMddCN"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "space_around": false,
         "lazyload_images": true
       }
@@ -417,7 +417,7 @@
         "liquid_hLrgry"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "space_around": false,
         "lazyload_images": true
       }
@@ -456,7 +456,7 @@
         "liquid_jRVNRk"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "space_around": false,
         "lazyload_images": true
       }
@@ -495,7 +495,7 @@
         "liquid_HeJ4Qq"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "space_around": false,
         "lazyload_images": true
       }
@@ -526,7 +526,7 @@
       ],
       "disabled": true,
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "space_around": false,
         "lazyload_images": true
       }
@@ -565,7 +565,7 @@
         "liquid_z7WF9D"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "space_around": false,
         "lazyload_images": true
       }
@@ -634,7 +634,7 @@
         "image_K3EtRE"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "space_around": false,
         "lazyload_images": true
       }
