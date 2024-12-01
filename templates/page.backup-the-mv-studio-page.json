@@ -634,7 +634,7 @@
         "image_K3EtRE"
       ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "space_around": false,
         "lazyload_images": true
       }
