@@ -526,7 +526,7 @@
       ],
       "disabled": true,
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "space_around": false,
         "lazyload_images": true
       }
@@ -565,7 +565,7 @@
         "liquid_z7WF9D"
       ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "space_around": false,
         "lazyload_images": true
       }
