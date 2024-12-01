@@ -387,7 +387,7 @@
         "liquid_gMddCN"
       ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "space_around": false,
         "lazyload_images": true
       }
@@ -417,7 +417,7 @@
         "liquid_hLrgry"
       ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "space_around": false,
         "lazyload_images": true
       }
