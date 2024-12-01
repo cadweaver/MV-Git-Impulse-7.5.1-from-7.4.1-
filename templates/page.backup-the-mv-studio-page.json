@@ -240,7 +240,7 @@
         "liquid_pzg4Jb"
       ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "space_around": false,
         "lazyload_images": true
       }
@@ -279,7 +279,7 @@
         "liquid_3E4dpX"
       ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "space_around": false,
         "lazyload_images": true
       }
