@@ -456,7 +456,7 @@
         "liquid_jRVNRk"
       ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "space_around": false,
         "lazyload_images": true
       }
@@ -495,7 +495,7 @@
         "liquid_HeJ4Qq"
       ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "space_around": false,
         "lazyload_images": true
       }
