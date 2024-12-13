@@ -67,7 +67,7 @@
             "show_footer_title": false,
             "title": "",
             "text": "<p>Sign up here for our newsletter.</p>",
-            "container_width": 33
+            "container_width": 50
           }
         },
         "custom_F6C8Qx": {
@@ -76,7 +76,7 @@
             "show_footer_title": false,
             "title": "",
             "text": "<p><a href=\"https://www.instagram.com/modern.verve/\" target=\"_blank\" title=\"https://www.instagram.com/modern.verve/\">Instagram</a></p><p></p>",
-            "container_width": 33
+            "container_width": 30
           }
         },
         "menu_ckeMdJ": {
@@ -84,7 +84,7 @@
           "settings": {
             "show_footer_title": false,
             "menu": "phone",
-            "container_width": 33
+            "container_width": 20
           }
         },
         "menu_xa47f3": {
