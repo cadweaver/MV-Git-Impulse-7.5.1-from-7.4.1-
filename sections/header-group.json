@@ -17,8 +17,8 @@
         "header-0": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/modern_verve_logoText-black.png",
-            "logo-inverted": "shopify://shop_images/modern_verve_logoText-white.png",
+            "logo": "shopify://shop_images/modern_verve_logoText-black_88bdd7db-8044-4ed1-a26b-f06b5532ce3f.svg",
+            "logo-inverted": "shopify://shop_images/modern_verve_logoText-white.svg",
             "desktop_logo_width": 370,
             "mobile_logo_width": 190
           }
