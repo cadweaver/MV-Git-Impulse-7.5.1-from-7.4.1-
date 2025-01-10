@@ -3523,8 +3523,8 @@
           "info": "https://www.facebook.com/shopify"
         },
         "social_twitter_link": {
-          "label": "Twitter",
-          "info": "https://twitter.com/shopify"
+          "label": "X",
+          "info": "https://x.com/shopify"
         },
         "social_pinterest_link": {
           "label": "Pinterest",
@@ -3695,11 +3695,11 @@
       },
       "social": {
         "share_on_facebook": "Partager",
-        "share_on_twitter": "Tweet",
+        "share_on_x": "Partager",
         "share_on_pinterest": "Épinglez-le",
         "alt_text": {
           "share_on_facebook": "Partager sur Facebook",
-          "share_on_twitter": "Tweeter sur Twitter",
+          "share_on_x": "Tweeter sur X",
           "share_on_pinterest": "Épingler sur Pinterest"
         }
       },

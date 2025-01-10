@@ -35,11 +35,11 @@
     },
     "social": {
       "share_on_facebook": "Condividi",
-      "share_on_twitter": "Tweet",
+      "share_on_x": "Condividi",
       "share_on_pinterest": "Appuntalo",
       "alt_text": {
         "share_on_facebook": "Condividi su Facebook",
-        "share_on_twitter": "Twitta su Twitter",
+        "share_on_x": "Twitta su X",
         "share_on_pinterest": "Aggiungi un pin su Pinterest"
       }
     },

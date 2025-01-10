@@ -3532,8 +3532,8 @@
           "info": "https://www.facebook.com/shopify"
         },
         "social_twitter_link": {
-          "label": "Twitter",
-          "info": "https://twitter.com/shopify"
+          "label": "X",
+          "info": "https://x.com/shopify"
         },
         "social_pinterest_link": {
           "label": "Pinterest",
@@ -3704,11 +3704,11 @@
       },
       "social": {
         "share_on_facebook": "Share",
-        "share_on_twitter": "Tweet",
+        "share_on_x": "Share",
         "share_on_pinterest": "Pin it",
         "alt_text": {
           "share_on_facebook": "Share on Facebook",
-          "share_on_twitter": "Tweet on Twitter",
+          "share_on_x": "Tweet on X",
           "share_on_pinterest": "Pin on Pinterest"
         }
       },
