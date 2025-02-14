@@ -21,6 +21,8 @@
             "logo-inverted": "shopify://shop_images/modern_verve_logoText-white_5542cf33-150c-4487-b61e-0146f9d3fbf3.png",
             "desktop_logo_width": 370,
             "mobile_logo_width": 190
+            "desktop_logo_width": 140,
+            "mobile_logo_width": 110
           }
         }
       },
@@ -40,6 +42,12 @@
         "show_locale_selector": true,
         "show_currency_selector": true,
         "show_currency_flags": true
+        "main_menu_alignment": "center-split",
+        "header_style": "sticky",
+        "sticky_index": false,
+        "sticky_collection": false,
+        "toolbar_menu": "top",
+        "toolbar_social": true
       }
     },
     "announcement": {
@@ -51,6 +59,7 @@
             "text": "Free shipping",
             "link_text": "On all orders over $100",
             "link": ""
+            "link_text": "On all orders over $100"
           }
         },
         "announcement-1": {
@@ -59,6 +68,7 @@
             "text": "Hassle-free returns",
             "link_text": "30-day postage paid returns",
             "link": ""
+            "link_text": "30-day postage paid returns"
           }
         }
       },

@@ -7,8 +7,10 @@
     endif
 
     assign enable_dynamic_buttons = false
-    if show_dynamic_checkout and template != 'product.preorder' and gift_card_recipient_feature_active == false
-      assign enable_dynamic_buttons = true
+    if show_dynamic_checkout and gift_card_recipient_feature_active == false
+      unless template contains 'preorder'
+        assign enable_dynamic_buttons = true
+      endunless
     endif
   -%}
 
