@@ -33,7 +33,7 @@
         "mega_menu_images": false,
         "main_menu_alignment": "center-drawer",
         "header_style": "sticky",
-        "sticky_index": true,
+        "sticky_index": false,
         "sticky_collection": true,
         "toolbar_menu": "",
         "toolbar_social": false,
