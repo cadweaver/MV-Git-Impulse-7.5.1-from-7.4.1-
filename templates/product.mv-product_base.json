@@ -76,6 +76,14 @@
             "phone": false
           }
         },
+        "tab_MVEtck": {
+          "type": "tab",
+          "settings": {
+            "title": "Customization Request",
+            "content": "",
+            "page": ""
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -97,6 +105,7 @@
         "tab_zRRnC7",
         "tab",
         "contact",
+        "tab_MVEtck",
         "description",
         "share"
       ],
