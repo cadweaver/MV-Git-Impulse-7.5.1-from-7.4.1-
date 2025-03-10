@@ -76,14 +76,6 @@
             "phone": false
           }
         },
-        "tab_ppbGF6": {
-          "type": "tab",
-          "settings": {
-            "title": "{{ product.metafields.custom.tab_title_downloads.value }}",
-            "content": "",
-            "page": ""
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
@@ -105,7 +97,6 @@
         "tab_zRRnC7",
         "tab",
         "contact",
-        "tab_ppbGF6",
         "description",
         "share"
       ],
