@@ -79,7 +79,7 @@
         "tab_MVEtck": {
           "type": "tab",
           "settings": {
-            "title": "Customization Request",
+            "title": "{{ product.metafields.custom.tab_title_customization_request.value }}",
             "content": "",
             "page": ""
           }
