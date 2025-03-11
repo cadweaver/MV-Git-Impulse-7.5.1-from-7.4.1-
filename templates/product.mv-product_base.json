@@ -76,6 +76,15 @@
             "phone": false
           }
         },
+        "tab_C9gMnN": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "{{ product.metafields.custom.tab_title_definition.value }}",
+            "content": "<p>{{ product.metafields.custom.tab_body_definition | metafield_tag }}</p>",
+            "page": ""
+          }
+        },
         "tab_MVEtck": {
           "type": "tab",
           "settings": {
@@ -105,6 +114,7 @@
         "tab_zRRnC7",
         "tab",
         "contact",
+        "tab_C9gMnN",
         "tab_MVEtck",
         "description",
         "share"
