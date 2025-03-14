@@ -111,10 +111,34 @@
         "show_copyright": true,
         "copyright_text": ""
       }
+    },
+    "advanced_content_BDWyDU": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_r8LDTW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MV_modern_verve_MV_rec_4_Black_5133a07a-a103-42fa-adc6-5770688403b3.svg",
+            "link": "",
+            "width": "33%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_r8LDTW"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
     "footer-promotions",
-    "footer"
+    "footer",
+    "advanced_content_BDWyDU"
   ]
 }
