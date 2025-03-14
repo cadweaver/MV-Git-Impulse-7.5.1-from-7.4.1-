@@ -224,12 +224,22 @@
             "author": "Author's name",
             "author_info": "Los Angeles, CA"
           }
+        },
+        "testimonial_PpWfn8": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
         }
       },
       "block_order": [
         "testimonials-0",
         "testimonials-1",
-        "testimonials-2"
+        "testimonials-2",
+        "testimonial_PpWfn8"
       ],
       "disabled": true,
       "settings": {
@@ -243,7 +253,7 @@
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
-        "product_recommendations_heading": "You may also like",
+        "product_recommendations_heading": "",
         "related_count": 6,
         "products_per_row": 3
       }
