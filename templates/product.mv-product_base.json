@@ -87,6 +87,7 @@
         },
         "tab_MVEtck": {
           "type": "tab",
+          "disabled": true,
           "settings": {
             "title": "{{ product.metafields.custom.tab_title_customization_request.value }}",
             "content": "",
