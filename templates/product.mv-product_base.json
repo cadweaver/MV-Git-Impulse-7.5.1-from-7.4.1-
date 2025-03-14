@@ -65,7 +65,7 @@
           "type": "tab",
           "settings": {
             "title": "Shipping information",
-            "content": "<p>Ground shipping will be calculated at checkout. </p>",
+            "content": "<p>Ground shipping within the USA will be calculated at checkout. </p><p>For all other locations, please contact sales@modernverve.com for shipping quote.</p>",
             "page": ""
           }
         },
