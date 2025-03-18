@@ -46,18 +46,18 @@
             "text": "5 Year Warranty. See Terms and Conditions"
           }
         },
-        "sales_point_WCMbge": {
-          "type": "sales_point",
-          "settings": {
-            "icon": "truck",
-            "text": "6 to 8 week lead time for standard fixtures"
-          }
-        },
         "sales_point_MQwiYb": {
           "type": "sales_point",
           "settings": {
             "icon": "checkmark",
             "text": "Custom sizes and finishes available"
+          }
+        },
+        "sales_point_WCMbge": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "truck",
+            "text": "6 to 8 week lead time for standard fixtures"
           }
         },
         "inventory_status": {
@@ -142,8 +142,8 @@
         "sales_point",
         "sales_point_VT7cnG",
         "sales_point_hPAjLj",
-        "sales_point_WCMbge",
         "sales_point_MQwiYb",
+        "sales_point_WCMbge",
         "inventory_status",
         "quantity_selector_KghzPB",
         "price",
