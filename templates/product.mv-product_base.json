@@ -39,6 +39,13 @@
             "text": "UL listed"
           }
         },
+        "sales_point_WCMbge": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "truck",
+            "text": "6 to 8 week lead time"
+          }
+        },
         "inventory_status": {
           "type": "inventory_status",
           "disabled": true,
@@ -116,6 +123,7 @@
         "variant_picker",
         "sales_point",
         "sales_point_VT7cnG",
+        "sales_point_WCMbge",
         "inventory_status",
         "price",
         "buy_buttons",
