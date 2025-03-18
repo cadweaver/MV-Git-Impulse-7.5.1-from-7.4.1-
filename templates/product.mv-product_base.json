@@ -22,7 +22,7 @@
             "variant_labels": true,
             "picker_type": "button",
             "product_dynamic_variants_enable": true,
-            "color_swatches": false
+            "color_swatches": true
           }
         },
         "sales_point": {
@@ -60,6 +60,10 @@
             "inventory_threshold": 10,
             "inventory_transfers_enable": true
           }
+        },
+        "quantity_selector_KghzPB": {
+          "type": "quantity_selector",
+          "settings": {}
         },
         "price": {
           "type": "price",
@@ -133,6 +137,7 @@
         "sales_point_WCMbge",
         "sales_point_MQwiYb",
         "inventory_status",
+        "quantity_selector_KghzPB",
         "price",
         "buy_buttons",
         "tab_zRRnC7",
