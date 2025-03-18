@@ -41,6 +41,7 @@
         },
         "sales_point_hPAjLj": {
           "type": "sales_point",
+          "disabled": true,
           "settings": {
             "icon": "shield",
             "text": "5 Year Warranty"
