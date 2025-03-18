@@ -43,7 +43,7 @@
           "type": "sales_point",
           "settings": {
             "icon": "truck",
-            "text": "6 to 8 week lead time"
+            "text": "6 to 8 week lead time for standard finishes"
           }
         },
         "inventory_status": {
