@@ -28,8 +28,15 @@
         "sales_point": {
           "type": "sales_point",
           "settings": {
-            "icon": "globe",
-            "text": "Free worldwide shipping"
+            "icon": "checkmark",
+            "text": "Made in USA"
+          }
+        },
+        "sales_point_VT7cnG": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "UL listed"
           }
         },
         "inventory_status": {
@@ -108,6 +115,7 @@
         "separator",
         "variant_picker",
         "sales_point",
+        "sales_point_VT7cnG",
         "inventory_status",
         "price",
         "buy_buttons",
