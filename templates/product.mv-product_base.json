@@ -43,7 +43,14 @@
           "type": "sales_point",
           "settings": {
             "icon": "truck",
-            "text": "6 to 8 week lead time for standard finishes"
+            "text": "6 to 8 week lead time for standard fixtures"
+          }
+        },
+        "sales_point_MQwiYb": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "Custom sizes and finishes available"
           }
         },
         "inventory_status": {
@@ -124,6 +131,7 @@
         "sales_point",
         "sales_point_VT7cnG",
         "sales_point_WCMbge",
+        "sales_point_MQwiYb",
         "inventory_status",
         "price",
         "buy_buttons",
