@@ -112,7 +112,7 @@
       "name": "t:sections.promo-grid.presets.promotional_grid.name",
       "settings": {
         "full_width": false,
-        "gutter_size": 20,
+        "gutter_size": 0,
         "space_above": true,
         "space_below": true,
         "lazyload_images": true
@@ -174,7 +174,7 @@
       "name": "t:sections.promo-grid.presets.promotional_grid.name",
       "settings": {
         "full_width": false,
-        "gutter_size": 20,
+        "gutter_size": 0,
         "space_above": true,
         "space_below": true,
         "lazyload_images": true
