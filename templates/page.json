@@ -121,27 +121,6 @@
     "promo_grid_n9kwRf": {
       "type": "promo-grid",
       "blocks": {
-        "advanced_FMQn6q": {
-          "type": "advanced",
-          "settings": {
-            "subheading": "",
-            "heading": "",
-            "textarea": "",
-            "cta_text1": "",
-            "cta_link1": "",
-            "cta_text2": "CUSTOM FIXTURES",
-            "cta_link2": "",
-            "image": "shopify://shop_images/Modern_Verve_Flute_Series_Endless_Horizontal_Wand_H-1.jpg",
-            "video_url": "",
-            "width": "50",
-            "height": 500,
-            "text_size": 100,
-            "text_align": "vertical-bottom horizontal-center",
-            "color_accent": "rgba(0,0,0,0)",
-            "boxed": false,
-            "framed": false
-          }
-        },
         "advanced_Lrc4Ri": {
           "type": "advanced",
           "settings": {
@@ -162,11 +141,32 @@
             "boxed": false,
             "framed": false
           }
+        },
+        "advanced_FMQn6q": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "",
+            "heading": "",
+            "textarea": "",
+            "cta_text1": "",
+            "cta_link1": "",
+            "cta_text2": "CUSTOM FIXTURES",
+            "cta_link2": "",
+            "image": "shopify://shop_images/Modern_Verve_Flute_Series_Endless_Horizontal_Wand_H-1.jpg",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-bottom horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
         }
       },
       "block_order": [
-        "advanced_FMQn6q",
-        "advanced_Lrc4Ri"
+        "advanced_Lrc4Ri",
+        "advanced_FMQn6q"
       ],
       "custom_css": [
         "@media only screen and (min-width: 769px) {.flex-grid__item--50 {flex-basis: 66%; }}"
