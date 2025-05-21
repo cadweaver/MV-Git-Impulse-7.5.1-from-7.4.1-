@@ -106,6 +106,9 @@
         "advanced_NM6ntj",
         "advanced_wVexBW"
       ],
+      "custom_css": [
+        "@media only screen and (min-width: 769px) {.flex-grid__item--50 {flex-basis: 66%; }}"
+      ],
       "name": "t:sections.promo-grid.presets.promotional_grid.name",
       "settings": {
         "full_width": false,
