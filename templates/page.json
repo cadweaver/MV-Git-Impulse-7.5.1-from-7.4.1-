@@ -233,7 +233,8 @@
         "advanced_PWMPfL"
       ],
       "custom_css": [
-        "@media only screen and (min-width: 769px) {.template-collection .promo-grid.promo-grid--space-bottom {padding-bottom: 10px;}.template-collection .flex-grid__item.flex-grid__item--50 {padding-left: 10px;}.template-collection .flex-grid__item.flex-grid__item--33.type-advanced {padding-left: 10px;}}"
+        "@media only screen and (min-width: 769px) {.flex-grid__item--50 {flex-basis: 66%; }}",
+        "@media only screen and (min-width: 769px) {.template-collection .promo-grid.promo-grid--space-bottom {padding-bottom: 10px; } .template-collection .flex-grid__item.flex-grid__item--50 {padding-left: 10px; } .template-collection .flex-grid__item.flex-grid__item--33.type-advanced {padding-left: 10px; }}"
       ],
       "name": "t:sections.promo-grid.presets.promotional_grid.name",
       "settings": {
