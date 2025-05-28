@@ -548,7 +548,8 @@
     "custom_css": [
       ".rte a:not(.rte__image):not(.btn) {display: block !important;}",
       ".collection-content .page-width {max-width: 100% !important;}",
-      ".grid-product__price {display: none;}"
+      ".grid-product__price {display: none;}",
+      "@media only screen and (min-width: 769px) {.template-collection .promo-grid.promo-grid--space-bottom {padding-bottom: 10px; } .template-collection .flex-grid__item.flex-grid__item--50 {padding-left: 10px; } .template-collection .flex-grid__item.flex-grid__item--33.type-advanced {padding-left: 10px; } .promo-grid {padding-bottom: 10px;}.promo-grid .flex-grid__item.flex-grid__item--50 {padding-left: 10px;}}"
     ]
   }
 }
