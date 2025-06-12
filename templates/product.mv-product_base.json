@@ -170,6 +170,60 @@
         "product_video_style": "muted"
       }
     },
+    "slideshow_K8jpPr": {
+      "type": "slideshow",
+      "blocks": {
+        "image_p99UBA": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "made in seattle",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Modern_Verve__Made_In_Seattle_image.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_RhM3nE": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Two line\ntitle slide.",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_p99UBA",
+        "image_RhM3nE"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
     "sub": {
       "type": "product-full-width",
       "disabled": true,
@@ -307,46 +361,11 @@
       "type": "collection-return",
       "disabled": true,
       "settings": {}
-    },
-    "slideshow_ayDLAW": {
-      "type": "slideshow",
-      "blocks": {
-        "image_4cEAk8": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Modern_Verve__Made_In_Seattle.jpg",
-            "parallax_direction": "left",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_4cEAk8"
-      ],
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "650px",
-        "mobile_height": "auto",
-        "parallax": true,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true
-      }
     }
   },
   "order": [
     "main",
+    "slideshow_K8jpPr",
     "sub",
     "background-image-text",
     "text-and-image",
@@ -354,7 +373,6 @@
     "testimonials",
     "product-recommendations",
     "recently-viewed",
-    "collection-return",
-    "slideshow_ayDLAW"
+    "collection-return"
   ]
 }
